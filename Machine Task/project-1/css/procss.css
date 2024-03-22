@@ -1,0 +1,3364 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 450.7px;
+    box-sizing: border-box;
+  }
+  .home-3 {
+    background: var(--white, #FFFFFF);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .planet-earth-background-11 {
+    opacity: 0.35;
+    mix-blend-mode: screen;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/GUQHESdMV1EHyarNxt4R4F/assets/images/249fb32dcc0749a252fe3fb879ab1e65a244ea8c?Expires=1711539982&KeyName=fn12-cdn&Signature=k-XFfccOhC5_VeD31tGjfcLAnUs=');
+    position: absolute;
+    left: 9px;
+    bottom: 0px;
+    width: 1151px;
+    height: 489px;
+  }
+  .planet-earth-background-111 {
+    mix-blend-mode: screen;
+    border-radius: 262.5px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/GUQHESdMV1EHyarNxt4R4F/assets/images/249fb32dcc0749a252fe3fb879ab1e65a244ea8c?Expires=1711539982&KeyName=fn12-cdn&Signature=k-XFfccOhC5_VeD31tGjfcLAnUs=');
+    position: absolute;
+    left: 189px;
+    top: 103px;
+    width: 493px;
+    height: 498px;
+  }
+  .planet-earth-background-112 {
+    opacity: 0.35;
+    mix-blend-mode: screen;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/GUQHESdMV1EHyarNxt4R4F/assets/images/249fb32dcc0749a252fe3fb879ab1e65a244ea8c?Expires=1711539982&KeyName=fn12-cdn&Signature=k-XFfccOhC5_VeD31tGjfcLAnUs=');
+    position: absolute;
+    right: 8px;
+    bottom: 0px;
+    width: 288px;
+    height: 489px;
+  }
+  .mining-projects-around-the-world {
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 54px;
+    letter-spacing: -1.1px;
+    line-height: 1.333;
+  }
+  .mining-projects-around-the-world-sub80 {
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 54px;
+    letter-spacing: -1.1px;
+    line-height: 1.333;
+    color: var(--faf-3-e-5, #FAF3E5);
+  }
+  .beyond-limits-below-the-surface {
+    position: absolute;
+    top: 204px;
+    right: 392.4px;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-regular-font-weight, 400);
+    font-size: var(--px-text-lg-regular-font-size, 18px);
+    line-height: var(--px-text-lg-regular-line-height, 1.556);
+    color: var(--gray-shades-50, #B1B1B7);
+  }
+  .frame-33755 {
+    background: #F5F5F6;
+    position: absolute;
+    left: 0px;
+    top: 489px;
+    right: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 100px 142px 100px 0;
+    box-sizing: border-box;
+  }
+  .frame-33754 {
+    margin: 0 764.9px 38px 0;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .discover {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-regular-font-weight, 400);
+    font-size: var(--px-text-lg-regular-font-size, 18px);
+    line-height: var(--px-text-lg-regular-line-height, 1.556);
+    color: var(--gray-shades-70, #8A8A94);
+  }
+  .explore-by-commodities {
+    overflow-wrap: break-word;
+    font-family: var(--px-display-sm-semibold-font-family, 'Poppins');
+    font-weight: var(--px-display-sm-semibold-font-weight, 600);
+    font-size: var(--px-display-sm-semibold-font-size, 30px);
+    line-height: var(--px-display-sm-semibold-line-height, 1.267);
+    color: var(--3-c-3-c-4-c, #3C3C4C);
+  }
+  .frame-33753 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    column-gap: 24px;
+    padding-right: 20px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-33738 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .frame-33736 {
+    border-radius: 8px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/GUQHESdMV1EHyarNxt4R4F/assets/images/3040583b751ce0cdccf1ef0ba1aa3ccbaac43dcf?Expires=1711539982&KeyName=fn12-cdn&Signature=0AcFF9VT79qjC45AIOlFh86FcXw=') 50% / cover no-repeat;
+    margin-bottom: 15px;
+    width: 166px;
+    height: 196px;
+  }
+  .frame-33737 {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .coal {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-medium-font-weight, 500);
+    font-size: var(--px-text-lg-medium-font-size, 18px);
+    line-height: var(--px-text-lg-medium-line-height, 1.556);
+    color: var(--3-c-3-c-4-c, #3C3C4C);
+  }
+  .projects {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--gray-shades-70, #8A8A94);
+  }
+  .frame-337383 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .frame-337364 {
+    border-radius: 8px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/GUQHESdMV1EHyarNxt4R4F/assets/images/57d46ed57f6a5d9602e0ee294bd81bf43b159f7e?Expires=1711539982&KeyName=fn12-cdn&Signature=62JbRb-QA5Ox-Ji8jcDoENSzrZg=') 50% / cover no-repeat;
+    margin-bottom: 15px;
+    width: 166px;
+    height: 196px;
+  }
+  .frame-337375 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .cobalt {
+    margin-right: 15.7px;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-medium-font-weight, 500);
+    font-size: var(--px-text-lg-medium-font-size, 18px);
+    line-height: var(--px-text-lg-medium-line-height, 1.556);
+    color: var(--3-c-3-c-4-c, #3C3C4C);
+  }
+  .projects-6 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--gray-shades-70, #8A8A94);
+  }
+  .frame-337387 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .frame-337368 {
+    border-radius: 8px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/GUQHESdMV1EHyarNxt4R4F/assets/images/7ad9494bbeb5550446cd09b4e28d47347a02ed78?Expires=1711539982&KeyName=fn12-cdn&Signature=FM35UbHFx8pAOnBGB-tTKxfX2vk=') 50% / cover no-repeat;
+    margin-bottom: 15px;
+    width: 166px;
+    height: 196px;
+  }
+  .frame-337379 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .copper {
+    margin-right: 9.8px;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-medium-font-weight, 500);
+    font-size: var(--px-text-lg-medium-font-size, 18px);
+    line-height: var(--px-text-lg-medium-line-height, 1.556);
+    color: var(--3-c-3-c-4-c, #3C3C4C);
+  }
+  .projects-10 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--gray-shades-70, #8A8A94);
+  }
+  .frame-3373811 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .frame-3373612 {
+    border-radius: 8px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/GUQHESdMV1EHyarNxt4R4F/assets/images/9175139685f9f14babed3b49f949e7932d5488cc?Expires=1711539982&KeyName=fn12-cdn&Signature=rEUeWgPrzkve_uWdFooB_tjlmQ8=') 50% / cover no-repeat;
+    margin-bottom: 15px;
+    width: 166px;
+    height: 196px;
+  }
+  .frame-3373713 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .energy {
+    margin-right: 15px;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-medium-font-weight, 500);
+    font-size: var(--px-text-lg-medium-font-size, 18px);
+    line-height: var(--px-text-lg-medium-line-height, 1.556);
+    color: var(--3-c-3-c-4-c, #3C3C4C);
+  }
+  .projects-14 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--gray-shades-70, #8A8A94);
+  }
+  .frame-3373815 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .frame-3373616 {
+    border-radius: 8px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/GUQHESdMV1EHyarNxt4R4F/assets/images/8386ee14ab3d59e0df6327248ccf8154697304ab?Expires=1711539982&KeyName=fn12-cdn&Signature=4SqX8yEpWBjsIyDhiiRreL4d78I=') 50% / cover no-repeat;
+    margin-bottom: 15px;
+    width: 166px;
+    height: 196px;
+  }
+  .frame-3373717 {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .gold {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-medium-font-weight, 500);
+    font-size: var(--px-text-lg-medium-font-size, 18px);
+    line-height: var(--px-text-lg-medium-line-height, 1.556);
+    color: var(--3-c-3-c-4-c, #3C3C4C);
+  }
+  .projects-18 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--gray-shades-70, #8A8A94);
+  }
+  .frame-3373819 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .frame-3373620 {
+    border-radius: 8px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/GUQHESdMV1EHyarNxt4R4F/assets/images/5999324340eefbafe2a408f10c562e7355d96f19?Expires=1711539982&KeyName=fn12-cdn&Signature=a5bN00C2zFPrEhoyQWrmeN--CmU=') 50% / cover no-repeat;
+    margin-bottom: 15px;
+    width: 166px;
+    height: 196px;
+  }
+  .frame-3373721 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .graphite {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-medium-font-weight, 500);
+    font-size: var(--px-text-lg-medium-font-size, 18px);
+    line-height: var(--px-text-lg-medium-line-height, 1.556);
+    color: var(--3-c-3-c-4-c, #3C3C4C);
+  }
+  .projects-22 {
+    margin-right: 1.9px;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--gray-shades-70, #8A8A94);
+  }
+  .chevron-forward {
+    box-shadow: var(--shadows-extra-large, 0px 24px 32px 0px rgba(0, 0, 0, 0.04)), var(--shadows-extra-large, 0px 16px 24px 0px rgba(0, 0, 0, 0.04)), var(--shadows-extra-large, 0px 4px 8px 0px rgba(0, 0, 0, 0.04)), var(--shadows-extra-large, 0px 0px 1px 0px rgba(0, 0, 0, 0.04));
+    border-radius: 100px;
+    border: 0.9px solid var(--gray-shades-20, #EBEBED);
+    background: var(--secondary-shades-white, #FFFFFF);
+    position: absolute;
+    top: 80px;
+    right: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 11.1px 14.1px;
+    width: 36px;
+    height: 36px;
+    box-sizing: border-box;
+  }
+  .vector {
+    width: 6px;
+    height: 12px;
+  }
+  .group-5 {
+    margin: 100px 0 35px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 166px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .vector-190 {
+    width: 51px;
+    height: 13px;
+  }
+  .vector-19023 {
+    width: 51px;
+    height: 13px;
+  }
+  .frame-33771 {
+    margin-bottom: 27px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 24px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-33767 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .frame-14785 {
+    border-radius: 8px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/GUQHESdMV1EHyarNxt4R4F/assets/images/37d788dc9df72f59c41217f8bcf282ae6741cff1?Expires=1711539982&KeyName=fn12-cdn&Signature=xEwDbnFyEpA7YCillTc3JcEfsOA=') 50% / cover no-repeat;
+    margin-bottom: 16px;
+    width: 261px;
+    height: 205px;
+  }
+  .frame-33715 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-6960 {
+    margin-bottom: 6px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .ellipse-422 {
+    border-radius: 5px;
+    background: var(--ffc-000, #FFC000);
+    margin: 5px 8px 5px 0;
+    width: 10px;
+    height: 10px;
+  }
+  .title {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--graygrey-4, #84848E);
+  }
+  .high-purity-expressions-of-interest-sought-for-gold-mine-and-infrastructure-in-queensland {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-medium-font-weight, 500);
+    font-size: var(--px-text-lg-medium-font-size, 18px);
+    line-height: var(--px-text-lg-medium-line-height, 1.556);
+    color: var(--graygrey-6, #3C3C4C);
+  }
+  .frame-696024 {
+    position: absolute;
+    left: 2.5px;
+    bottom: 16px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .huge-iconinterfaceoutlinelocation-02 {
+    margin: 1.7px 10.5px 1.7px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 15px;
+    height: 16.7px;
+    box-sizing: border-box;
+  }
+  .vector-25 {
+    width: 15px;
+    height: 16.7px;
+  }
+  .title-26 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--graygrey-4, #84848E);
+  }
+  .frame-33768 {
+    margin-bottom: 16px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .frame-1478527 {
+    border-radius: 8px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/GUQHESdMV1EHyarNxt4R4F/assets/images/7b0363ea5edbdcb8c78b8dd39e660ccbcff5070a?Expires=1711539982&KeyName=fn12-cdn&Signature=sKIl35CyEQVlGS3yY8kK9DCpioc=') 50% / cover no-repeat;
+    margin-bottom: 16px;
+    width: 261px;
+    height: 205px;
+  }
+  .frame-3371528 {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-696029 {
+    margin-bottom: 6px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .ellipse-42230 {
+    border-radius: 5px;
+    background: var(--3-c-3-c-4-c, #3C3C4C);
+    margin: 5px 8px 5px 0;
+    width: 10px;
+    height: 10px;
+  }
+  .title-31 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--graygrey-4, #84848E);
+  }
+  .koz-high-grade-vivien-gold-project {
+    margin-bottom: 20px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-medium-font-weight, 500);
+    font-size: var(--px-text-lg-medium-font-size, 18px);
+    line-height: var(--px-text-lg-medium-line-height, 1.556);
+    color: var(--graygrey-6, #3C3C4C);
+  }
+  .frame-696032 {
+    margin: 0 2.5px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .huge-iconinterfaceoutlinelocation-0233 {
+    margin: 1.7px 10.5px 1.7px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 15px;
+    height: 16.7px;
+    box-sizing: border-box;
+  }
+  .vector-34 {
+    width: 15px;
+    height: 16.7px;
+  }
+  .title-35 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--graygrey-4, #84848E);
+  }
+  .frame-33769 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .frame-1478536 {
+    border-radius: 8px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/GUQHESdMV1EHyarNxt4R4F/assets/images/bab80391884fd03217d87ac5aadf1bd1e90cb324?Expires=1711539982&KeyName=fn12-cdn&Signature=EE2a6yB14YI0S68R27E97_XympI=') 50% / cover no-repeat;
+    margin-bottom: 16px;
+    width: 261px;
+    height: 205px;
+  }
+  .frame-3371537 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-696038 {
+    margin-bottom: 6px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .ellipse-42239 {
+    border-radius: 5px;
+    background: var(--c-55-a-11, #C55A11);
+    margin: 5px 8px 5px 0;
+    width: 10px;
+    height: 10px;
+  }
+  .title-40 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--graygrey-4, #84848E);
+  }
+  .sale-of-mining-and-exploration-tenements-qld-sa-and-cil-processing-plant-qld {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-medium-font-weight, 500);
+    font-size: var(--px-text-lg-medium-font-size, 18px);
+    line-height: var(--px-text-lg-medium-line-height, 1.556);
+    color: var(--graygrey-6, #3C3C4C);
+  }
+  .frame-696041 {
+    position: absolute;
+    left: 2.5px;
+    bottom: 16px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .huge-iconinterfaceoutlinelocation-0242 {
+    margin: 1.7px 10.5px 1.7px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 15px;
+    height: 16.7px;
+    box-sizing: border-box;
+  }
+  .vector-43 {
+    width: 15px;
+    height: 16.7px;
+  }
+  .title-44 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--graygrey-4, #84848E);
+  }
+  .frame-33770 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .frame-1478545 {
+    border-radius: 8px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/GUQHESdMV1EHyarNxt4R4F/assets/images/7ad9494bbeb5550446cd09b4e28d47347a02ed78?Expires=1711539982&KeyName=fn12-cdn&Signature=FM35UbHFx8pAOnBGB-tTKxfX2vk=') 50% / cover no-repeat;
+    margin-bottom: 16px;
+    width: 261px;
+    height: 205px;
+  }
+  .frame-3371546 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-696047 {
+    margin-bottom: 6px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .ellipse-42248 {
+    border-radius: 5px;
+    background: var(--ffc-000, #FFC000);
+    margin: 5px 8px 5px 0;
+    width: 10px;
+    height: 10px;
+  }
+  .title-49 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--graygrey-4, #84848E);
+  }
+  .high-purity-expressions-of-interest-sought-for-gold-mine-and-infrastructure-in-queensland-50 {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-medium-font-weight, 500);
+    font-size: var(--px-text-lg-medium-font-size, 18px);
+    line-height: var(--px-text-lg-medium-line-height, 1.556);
+    color: var(--graygrey-6, #3C3C4C);
+  }
+  .frame-696051 {
+    position: absolute;
+    left: 2.5px;
+    bottom: 16px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .huge-iconinterfaceoutlinelocation-0252 {
+    margin: 1.7px 10.5px 1.7px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 15px;
+    height: 16.7px;
+    box-sizing: border-box;
+  }
+  .vector-53 {
+    width: 15px;
+    height: 16.7px;
+  }
+  .title-54 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--graygrey-4, #84848E);
+  }
+  .frame-3377155 {
+    margin-bottom: 49px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 24px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-3376956 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .frame-1478557 {
+    border-radius: 8px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/GUQHESdMV1EHyarNxt4R4F/assets/images/3040583b751ce0cdccf1ef0ba1aa3ccbaac43dcf?Expires=1711539982&KeyName=fn12-cdn&Signature=0AcFF9VT79qjC45AIOlFh86FcXw=') 50% / cover no-repeat;
+    margin-bottom: 16px;
+    width: 261px;
+    height: 205px;
+  }
+  .frame-3371558 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-696059 {
+    margin-bottom: 6px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .ellipse-42260 {
+    border-radius: 5px;
+    background: var(--c-55-a-11, #C55A11);
+    margin: 5px 8px 5px 0;
+    width: 10px;
+    height: 10px;
+  }
+  .title-61 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--graygrey-4, #84848E);
+  }
+  .sale-of-mining-and-exploration-tenements-qld-sa-and-cil-processing-plant-qld-62 {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-medium-font-weight, 500);
+    font-size: var(--px-text-lg-medium-font-size, 18px);
+    line-height: var(--px-text-lg-medium-line-height, 1.556);
+    color: var(--graygrey-6, #3C3C4C);
+  }
+  .frame-696063 {
+    position: absolute;
+    left: 2.5px;
+    bottom: 16px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .huge-iconinterfaceoutlinelocation-0264 {
+    margin: 1.7px 10.5px 1.7px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 15px;
+    height: 16.7px;
+    box-sizing: border-box;
+  }
+  .vector-65 {
+    width: 15px;
+    height: 16.7px;
+  }
+  .title-66 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--graygrey-4, #84848E);
+  }
+  .frame-3377067 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .frame-1478568 {
+    border-radius: 8px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/GUQHESdMV1EHyarNxt4R4F/assets/images/8386ee14ab3d59e0df6327248ccf8154697304ab?Expires=1711539982&KeyName=fn12-cdn&Signature=4SqX8yEpWBjsIyDhiiRreL4d78I=') 50% / cover no-repeat;
+    margin-bottom: 16px;
+    width: 261px;
+    height: 205px;
+  }
+  .frame-3371569 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-696070 {
+    margin-bottom: 6px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .ellipse-42271 {
+    border-radius: 5px;
+    background: var(--ffc-000, #FFC000);
+    margin: 5px 8px 5px 0;
+    width: 10px;
+    height: 10px;
+  }
+  .title-72 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--graygrey-4, #84848E);
+  }
+  .high-purity-expressions-of-interest-sought-for-gold-mine-and-infrastructure-in-queensland-73 {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-medium-font-weight, 500);
+    font-size: var(--px-text-lg-medium-font-size, 18px);
+    line-height: var(--px-text-lg-medium-line-height, 1.556);
+    color: var(--graygrey-6, #3C3C4C);
+  }
+  .frame-696074 {
+    position: absolute;
+    left: 2.5px;
+    bottom: 16px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .huge-iconinterfaceoutlinelocation-0275 {
+    margin: 1.7px 10.5px 1.7px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 15px;
+    height: 16.7px;
+    box-sizing: border-box;
+  }
+  .vector-76 {
+    width: 15px;
+    height: 16.7px;
+  }
+  .title-77 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--graygrey-4, #84848E);
+  }
+  .frame-3376778 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .frame-1478579 {
+    border-radius: 8px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/GUQHESdMV1EHyarNxt4R4F/assets/images/9175139685f9f14babed3b49f949e7932d5488cc?Expires=1711539982&KeyName=fn12-cdn&Signature=rEUeWgPrzkve_uWdFooB_tjlmQ8=') 50% / cover no-repeat;
+    margin-bottom: 16px;
+    width: 261px;
+    height: 205px;
+  }
+  .frame-3371580 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-696081 {
+    margin-bottom: 6px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .ellipse-42282 {
+    border-radius: 5px;
+    background: #FF5C00;
+    margin: 5px 8px 5px 0;
+    width: 10px;
+    height: 10px;
+  }
+  .title-83 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--graygrey-4, #84848E);
+  }
+  .high-purity-expressions-of-interest-sought-for-gold-mine-and-infrastructure-in-queensland-84 {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-medium-font-weight, 500);
+    font-size: var(--px-text-lg-medium-font-size, 18px);
+    line-height: var(--px-text-lg-medium-line-height, 1.556);
+    color: var(--graygrey-6, #3C3C4C);
+  }
+  .frame-696085 {
+    position: absolute;
+    left: 2.5px;
+    bottom: 16px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .huge-iconinterfaceoutlinelocation-0286 {
+    margin: 1.7px 10.5px 1.7px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 15px;
+    height: 16.7px;
+    box-sizing: border-box;
+  }
+  .vector-87 {
+    width: 15px;
+    height: 16.7px;
+  }
+  .title-88 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--graygrey-4, #84848E);
+  }
+  .frame-3376889 {
+    margin-bottom: 16px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .frame-1478590 {
+    border-radius: 8px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/GUQHESdMV1EHyarNxt4R4F/assets/images/57d46ed57f6a5d9602e0ee294bd81bf43b159f7e?Expires=1711539982&KeyName=fn12-cdn&Signature=62JbRb-QA5Ox-Ji8jcDoENSzrZg=') 50% / cover no-repeat;
+    margin-bottom: 16px;
+    width: 261px;
+    height: 205px;
+  }
+  .frame-3371591 {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-696092 {
+    margin-bottom: 6px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .ellipse-42293 {
+    border-radius: 5px;
+    background: var(--3-c-3-c-4-c, #3C3C4C);
+    margin: 5px 8px 5px 0;
+    width: 10px;
+    height: 10px;
+  }
+  .title-94 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--graygrey-4, #84848E);
+  }
+  .koz-high-grade-vivien-gold-project-95 {
+    margin-bottom: 20px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-medium-font-weight, 500);
+    font-size: var(--px-text-lg-medium-font-size, 18px);
+    line-height: var(--px-text-lg-medium-line-height, 1.556);
+    color: var(--graygrey-6, #3C3C4C);
+  }
+  .frame-696096 {
+    margin: 0 2.5px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .huge-iconinterfaceoutlinelocation-0297 {
+    margin: 1.7px 10.5px 1.7px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 15px;
+    height: 16.7px;
+    box-sizing: border-box;
+  }
+  .vector-98 {
+    width: 15px;
+    height: 16.7px;
+  }
+  .title-99 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--graygrey-4, #84848E);
+  }
+  .button {
+    border-radius: 8px;
+    background: var(--3-c-3-c-4-c, #3C3C4C);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 12px 0;
+    width: 187px;
+    box-sizing: border-box;
+  }
+  .title-100 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-medium-font-weight, 500);
+    font-size: var(--px-text-lg-medium-font-size, 18px);
+    line-height: var(--px-text-lg-medium-line-height, 1.556);
+    color: var(--faf-3-e-5, #FAF3E5);
+  }
+  .button-101 {
+    border-radius: 8px;
+    background: var(--gray-shades-10, #F5F5F6);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 12px 0;
+    width: 195px;
+    box-sizing: border-box;
+  }
+  .title-102 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-medium-font-weight, 500);
+    font-size: var(--px-text-lg-medium-font-size, 18px);
+    line-height: var(--px-text-lg-medium-line-height, 1.556);
+    color: var(--3-c-3-c-4-c, #3C3C4C);
+  }
+  .button-103 {
+    box-shadow: var(--shadows-extra-large, 0px 24px 32px 0px rgba(0, 0, 0, 0.04)), var(--shadows-extra-large, 0px 16px 24px 0px rgba(0, 0, 0, 0.04)), var(--shadows-extra-large, 0px 4px 8px 0px rgba(0, 0, 0, 0.04)), var(--shadows-extra-large, 0px 0px 1px 0px rgba(0, 0, 0, 0.04));
+    border-radius: 8px;
+    background: var(--3-c-3-c-4-c, #3C3C4C);
+    position: absolute;
+    left: 50%;
+    top: 1026px;
+    translate: -50% 0;
+    display: flex;
+    flex-direction: row;
+    padding: 12px 0;
+    width: 217px;
+    box-sizing: border-box;
+  }
+  .title-104 {
+    margin-right: 8.3px;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-medium-font-weight, 500);
+    font-size: var(--px-text-lg-medium-font-size, 18px);
+    line-height: var(--px-text-lg-medium-line-height, 1.556);
+    color: var(--faf-3-e-5, #FAF3E5);
+  }
+  .maps-1 {
+    margin: 2px 0;
+    width: 24px;
+    height: 24px;
+  }
+  .frame-14785108 {
+    border-radius: 8px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/GUQHESdMV1EHyarNxt4R4F/assets/images/bab80391884fd03217d87ac5aadf1bd1e90cb324?Expires=1711539982&KeyName=fn12-cdn&Signature=EE2a6yB14YI0S68R27E97_XympI=') 50% / cover no-repeat, url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/GUQHESdMV1EHyarNxt4R4F/assets/images/c6d2682abe330deffddd301e51b995e3161c4dbf?Expires=1711539982&KeyName=fn12-cdn&Signature=AU9j-FoixjCnLGECcoMLgTlPtnQ=') 50% / cover no-repeat;
+    position: relative;
+    margin-right: 58px;
+    width: 500px;
+    height: 400px;
+  }
+  .frame-14785109 {
+    border-radius: 8px;
+    background: var(--primary-shades-light, #FCF7F3);
+    position: absolute;
+    left: 162px;
+    top: 2568px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-right: 0.2px;
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+  }
+  .group-1 {
+    width: 137px;
+    height: 123px;
+  }
+  .register-today-for-free-unrestricted-access-to-all-project-listings-market-metrics-and-transaction-valuations-projects-can-be-posted-on-mines-x-for-a-5-success-fee-or-a-negotiated-upfront-posting-fee-register-today-for-free-unrestricted-access {
+    margin-left: 34px;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-regular-font-weight, 400);
+    font-size: var(--px-text-lg-regular-font-size, 18px);
+    line-height: var(--px-text-lg-regular-line-height, 1.556);
+    color: var(--graygrey-4, #84848E);
+  }
+  .frame-14785114 {
+    border-radius: 8px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/GUQHESdMV1EHyarNxt4R4F/assets/images/7ad9494bbeb5550446cd09b4e28d47347a02ed78?Expires=1711539982&KeyName=fn12-cdn&Signature=FM35UbHFx8pAOnBGB-tTKxfX2vk=') 50% / cover no-repeat;
+    position: relative;
+    width: 500px;
+    height: 400px;
+  }
+  .class-aptent-taciti-sociosqu-ad-litora-torquent-per-conubia-nostra-per-inceptos-himenaeos-nullam-bibendum-pharetra-augue-at-tempus-ex-tincidunt-vel-aenean-rutrum-auctor-leo-at-suscipit {
+    margin-bottom: 28px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-regular-font-weight, 400);
+    font-size: var(--px-text-lg-regular-font-size, 18px);
+    line-height: var(--px-text-lg-regular-line-height, 1.556);
+    color: var(--graygrey-3, #ABABB2);
+  }
+  .manuel-gri {
+    position: relative;
+    margin: 10px 0 36px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-medium-font-weight, 500);
+    font-size: var(--px-text-lg-medium-font-size, 18px);
+    line-height: var(--px-text-lg-medium-line-height, 1.556);
+    color: var(--graygrey-6, #3C3C4C);
+  }
+  .ceo {
+    position: absolute;
+    right: 60.3px;
+    bottom: 11px;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-regular-font-weight, 400);
+    font-size: var(--px-text-lg-regular-font-size, 18px);
+    line-height: var(--px-text-lg-regular-line-height, 1.556);
+    color: var(--graygrey-3, #ABABB2);
+  }
+  .rectangle-420 {
+    border-radius: 4px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/GUQHESdMV1EHyarNxt4R4F/assets/images/51bd884e477c905b2695ebdf88f0c2d2d0bdb7db?Expires=1711539982&KeyName=fn12-cdn&Signature=7w2ptzurwHYz2WBuTm-2ggZ69MM=') 50% / cover no-repeat;
+    margin-right: 20px;
+    width: 74px;
+    height: 74px;
+  }
+  .frame-33727 {
+    border-radius: 8px;
+    background: var(--primary-shades-light, #FCF7F3);
+    position: absolute;
+    right: 162px;
+    bottom: 1788px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-right: 0.2px;
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+  }
+  .group-1115 {
+    width: 137px;
+    height: 125px;
+  }
+  .frame-33728 {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    column-gap: 5px;
+    width: 76px;
+    box-sizing: border-box;
+  }
+  .rectangle-421 {
+    border-radius: 24px;
+    background: var(--primaryprimary-2, #F1D7C6);
+    width: 7px;
+    height: 7px;
+  }
+  .rectangle-421120 {
+    border-radius: 24px;
+    background: var(--primaryprimary-6, #C55A11);
+    width: 40px;
+    height: 7px;
+  }
+  .rectangle-421121 {
+    border-radius: 24px;
+    background: var(--primaryprimary-2, #F1D7C6);
+    width: 7px;
+    height: 7px;
+  }
+  .rectangle-421122 {
+    border-radius: 24px;
+    background: var(--primaryprimary-2, #F1D7C6);
+    width: 7px;
+    height: 7px;
+  }
+  .frame-33773 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .rectangle-2 {
+    background: var(--primaryprimary-6, #C55A11);
+    margin-right: 24px;
+    width: 7px;
+    height: 148px;
+  }
+  .frame-33772 {
+    margin: 17px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .projects-around-the-world {
+    margin-bottom: 10px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-regular-font-weight, 400);
+    font-size: var(--px-text-lg-regular-font-size, 18px);
+    line-height: var(--px-text-lg-regular-line-height, 1.556);
+    color: var(--gray-shades-70, #8A8A94);
+  }
+  .we-explore-develop-produce-various-minerals {
+    overflow-wrap: break-word;
+    font-family: var(--px-display-sm-semibold-font-family, 'Poppins');
+    font-weight: var(--px-display-sm-semibold-font-weight, 600);
+    font-size: var(--px-display-sm-semibold-font-size, 30px);
+    line-height: var(--px-display-sm-semibold-line-height, 1.267);
+    color: var(--3-c-3-c-4-c, #3C3C4C);
+  }
+  .frame-33773123 {
+    margin: 0 1px 21px 0;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .rectangle-2124 {
+    background: var(--primaryprimary-6, #C55A11);
+    margin-right: 24px;
+    width: 7px;
+    height: 148px;
+  }
+  .frame-33772125 {
+    margin: 17px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .projects-126 {
+    margin-bottom: 10px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-regular-font-weight, 400);
+    font-size: var(--px-text-lg-regular-font-size, 18px);
+    line-height: var(--px-text-lg-regular-line-height, 1.556);
+    color: var(--gray-shades-70, #8A8A94);
+  }
+  .make-mining-safer-and-more-productive {
+    overflow-wrap: break-word;
+    font-family: var(--px-display-sm-semibold-font-family, 'Poppins');
+    font-weight: var(--px-display-sm-semibold-font-weight, 600);
+    font-size: var(--px-display-sm-semibold-font-size, 30px);
+    line-height: var(--px-display-sm-semibold-line-height, 1.267);
+    color: var(--3-c-3-c-4-c, #3C3C4C);
+  }
+  .frame-33745 {
+    background: #F5F5F6;
+    position: relative;
+    margin-bottom: 222px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 100px 0;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .frame-33743 {
+    margin: 0 848.9px 38px 0;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .discover-127 {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-regular-font-weight, 400);
+    font-size: var(--px-text-lg-regular-font-size, 18px);
+    line-height: var(--px-text-lg-regular-line-height, 1.556);
+    color: var(--gray-shades-70, #8A8A94);
+  }
+  .how-we-can-help {
+    overflow-wrap: break-word;
+    font-family: var(--px-display-sm-semibold-font-family, 'Poppins');
+    font-weight: var(--px-display-sm-semibold-font-weight, 600);
+    font-size: var(--px-display-sm-semibold-font-size, 30px);
+    line-height: var(--px-display-sm-semibold-line-height, 1.267);
+    color: var(--3-c-3-c-4-c, #3C3C4C);
+  }
+  .frame-33744 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1116px;
+    box-sizing: border-box;
+  }
+  .frame-33737128 {
+    border-radius: 8px;
+    border: 1px solid var(--gray-shades-50, #B1B1B7);
+    background: var(--secondary-shades-white, #FFFFFF);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px 0;
+    width: 356px;
+    box-sizing: border-box;
+  }
+  .africa {
+    margin-bottom: 4px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-xl-semibold-font-family, 'Poppins');
+    font-weight: var(--px-text-xl-semibold-font-weight, 600);
+    font-size: var(--px-text-xl-semibold-font-size, 20px);
+    line-height: var(--px-text-xl-semibold-line-height, 1.5);
+    color: var(--3-c-3-c-4-c, #3C3C4C);
+  }
+  .projects-129 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--gray-shades-70, #8A8A94);
+  }
+  .frame-33737130 {
+    border-radius: 8px;
+    border: 1px solid var(--gray-shades-50, #B1B1B7);
+    background: var(--secondary-shades-white, #FFFFFF);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px 0;
+    width: 356px;
+    box-sizing: border-box;
+  }
+  .asia {
+    margin-bottom: 4px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-xl-semibold-font-family, 'Poppins');
+    font-weight: var(--px-text-xl-semibold-font-weight, 600);
+    font-size: var(--px-text-xl-semibold-font-size, 20px);
+    line-height: var(--px-text-xl-semibold-line-height, 1.5);
+    color: var(--3-c-3-c-4-c, #3C3C4C);
+  }
+  .projects-131 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--gray-shades-70, #8A8A94);
+  }
+  .frame-33737132 {
+    border-radius: 8px;
+    border: 1px solid var(--gray-shades-50, #B1B1B7);
+    background: var(--secondary-shades-white, #FFFFFF);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px 0;
+    width: 356px;
+    box-sizing: border-box;
+  }
+  .europe {
+    margin-bottom: 4px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-xl-semibold-font-family, 'Poppins');
+    font-weight: var(--px-text-xl-semibold-font-weight, 600);
+    font-size: var(--px-text-xl-semibold-font-size, 20px);
+    line-height: var(--px-text-xl-semibold-line-height, 1.5);
+    color: var(--3-c-3-c-4-c, #3C3C4C);
+  }
+  .projects-133 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--gray-shades-70, #8A8A94);
+  }
+  .frame-33737134 {
+    border-radius: 8px;
+    border: 1px solid var(--gray-shades-50, #B1B1B7);
+    background: var(--secondary-shades-white, #FFFFFF);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px 0;
+    width: 356px;
+    box-sizing: border-box;
+  }
+  .north-america {
+    margin-bottom: 4px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-xl-semibold-font-family, 'Poppins');
+    font-weight: var(--px-text-xl-semibold-font-weight, 600);
+    font-size: var(--px-text-xl-semibold-font-size, 20px);
+    line-height: var(--px-text-xl-semibold-line-height, 1.5);
+    color: var(--3-c-3-c-4-c, #3C3C4C);
+  }
+  .projects-135 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--gray-shades-70, #8A8A94);
+  }
+  .frame-33737136 {
+    border-radius: 8px;
+    border: 1px solid var(--gray-shades-50, #B1B1B7);
+    background: var(--secondary-shades-white, #FFFFFF);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px 0;
+    width: 356px;
+    box-sizing: border-box;
+  }
+  .south-america {
+    margin-bottom: 4px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-xl-semibold-font-family, 'Poppins');
+    font-weight: var(--px-text-xl-semibold-font-weight, 600);
+    font-size: var(--px-text-xl-semibold-font-size, 20px);
+    line-height: var(--px-text-xl-semibold-line-height, 1.5);
+    color: var(--3-c-3-c-4-c, #3C3C4C);
+  }
+  .projects-137 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--gray-shades-70, #8A8A94);
+  }
+  .frame-33737138 {
+    border-radius: 8px;
+    border: 1px solid var(--gray-shades-50, #B1B1B7);
+    background: var(--secondary-shades-white, #FFFFFF);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px 0;
+    width: 356px;
+    box-sizing: border-box;
+  }
+  .africa-139 {
+    margin-bottom: 4px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-xl-semibold-font-family, 'Poppins');
+    font-weight: var(--px-text-xl-semibold-font-weight, 600);
+    font-size: var(--px-text-xl-semibold-font-size, 20px);
+    line-height: var(--px-text-xl-semibold-line-height, 1.5);
+    color: var(--3-c-3-c-4-c, #3C3C4C);
+  }
+  .projects-140 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--gray-shades-70, #8A8A94);
+  }
+  .frame-33750 {
+    background: #F5F5F6;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 2232px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 100px 0;
+    box-sizing: border-box;
+  }
+  .frame-33749 {
+    margin-bottom: 38px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1116px;
+    box-sizing: border-box;
+  }
+  .frame-33748 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .discover-141 {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-regular-font-weight, 400);
+    font-size: var(--px-text-lg-regular-font-size, 18px);
+    line-height: var(--px-text-lg-regular-line-height, 1.556);
+    color: var(--gray-shades-70, #8A8A94);
+  }
+  .how-we-can-help-142 {
+    overflow-wrap: break-word;
+    font-family: var(--px-display-sm-semibold-font-family, 'Poppins');
+    font-weight: var(--px-display-sm-semibold-font-weight, 600);
+    font-size: var(--px-display-sm-semibold-font-size, 30px);
+    line-height: var(--px-display-sm-semibold-line-height, 1.267);
+    color: var(--3-c-3-c-4-c, #3C3C4C);
+  }
+  .frame-33747 {
+    margin-top: 18px;
+    display: flex;
+    flex-direction: row;
+    width: 302px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-14727 {
+    border-radius: 8px;
+    background: var(--3-c-3-c-4-c, #3C3C4C);
+    margin-right: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 12px 0.8px 12px 0;
+    width: 145px;
+    box-sizing: border-box;
+  }
+  .buying {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-md-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-md-medium-font-weight, 500);
+    font-size: var(--px-text-md-medium-font-size, 16px);
+    line-height: var(--px-text-md-medium-line-height, 1.5);
+    color: var(--primaryprimary-1, #F9EFE7);
+  }
+  .frame-14727143 {
+    border-radius: 8px;
+    border: 1px solid var(--gray-shades-50, #B1B1B7);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 11px 0.6px 11px 0;
+    width: 145px;
+    box-sizing: border-box;
+  }
+  .selling {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-md-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-md-medium-font-weight, 500);
+    font-size: var(--px-text-md-medium-font-size, 16px);
+    line-height: var(--px-text-md-medium-line-height, 1.5);
+    color: var(--3-c-3-c-4-c, #3C3C4C);
+  }
+  .frame-33746 {
+    display: flex;
+    flex-direction: row;
+    column-gap: 24px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-33737144 {
+    border-radius: 8px;
+    border: 1px solid var(--gray-shades-50, #B1B1B7);
+    background: var(--secondary-shades-white, #FFFFFF);
+    display: flex;
+    flex-direction: column;
+    padding: 23px 0 23px 23px;
+    width: 356px;
+    box-sizing: border-box;
+  }
+  .fi-6919592 {
+    margin-bottom: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    width: 65px;
+    height: 65px;
+    box-sizing: border-box;
+  }
+  .group {
+    width: 65px;
+    height: 65px;
+  }
+  .use-our-expertise-to-find-the-right-solutions {
+    margin-bottom: 12px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-xl-semibold-font-family, 'Poppins');
+    font-weight: var(--px-text-xl-semibold-font-weight, 600);
+    font-size: var(--px-text-xl-semibold-font-size, 20px);
+    line-height: var(--px-text-xl-semibold-line-height, 1.5);
+    color: var(--3-c-3-c-4-c, #3C3C4C);
+  }
+  .this-could-include-tips-on-budgeting-risk-management-and-project-finance-the-content-can-elaborate-on-our-website {
+    margin-bottom: 38px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--gray-shades-70, #8A8A94);
+  }
+  .frame-33742 {
+    border-bottom: 1px solid var(--3-c-3-c-4-c, #3C3C4C);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    padding-right: 0.3px;
+    box-sizing: border-box;
+  }
+  .contact-our-team {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--3-c-3-c-4-c, #3C3C4C);
+  }
+  .frame-33737151 {
+    border-radius: 8px;
+    border: 1px solid var(--gray-shades-50, #B1B1B7);
+    background: var(--secondary-shades-white, #FFFFFF);
+    display: flex;
+    flex-direction: column;
+    padding: 23px 0 23px 23px;
+    width: 356px;
+    box-sizing: border-box;
+  }
+  .fi-6348099 {
+    margin-bottom: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    width: 65px;
+    height: 65px;
+    box-sizing: border-box;
+  }
+  .group-152 {
+    width: 65px;
+    height: 65px;
+  }
+  .sustainable-practices-in-mining {
+    margin-bottom: 12px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-xl-semibold-font-family, 'Poppins');
+    font-weight: var(--px-text-xl-semibold-font-weight, 600);
+    font-size: var(--px-text-xl-semibold-font-size, 20px);
+    line-height: var(--px-text-xl-semibold-line-height, 1.5);
+    color: var(--3-c-3-c-4-c, #3C3C4C);
+  }
+  .this-could-include-tips-on-budgeting-risk-management-and-project-finance-the-content-can-elaborate-on-our-website-162 {
+    margin-bottom: 38px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--gray-shades-70, #8A8A94);
+  }
+  .frame-33742163 {
+    border-bottom: 1px solid var(--3-c-3-c-4-c, #3C3C4C);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    padding-right: 0.3px;
+    box-sizing: border-box;
+  }
+  .contact-our-team-164 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--3-c-3-c-4-c, #3C3C4C);
+  }
+  .frame-33737165 {
+    border-radius: 8px;
+    border: 1px solid var(--gray-shades-50, #B1B1B7);
+    background: var(--secondary-shades-white, #FFFFFF);
+    display: flex;
+    flex-direction: column;
+    padding: 23px 0 23px 23px;
+    width: 356px;
+    box-sizing: border-box;
+  }
+  .fi-3500902 {
+    margin-bottom: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    width: 65px;
+    height: 65px;
+    box-sizing: border-box;
+  }
+  .vector-166 {
+    width: 65px;
+    height: 65px;
+  }
+  .navigating-the-challenges-in-mining {
+    margin-bottom: 12px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-xl-semibold-font-family, 'Poppins');
+    font-weight: var(--px-text-xl-semibold-font-weight, 600);
+    font-size: var(--px-text-xl-semibold-font-size, 20px);
+    line-height: var(--px-text-xl-semibold-line-height, 1.5);
+    color: var(--3-c-3-c-4-c, #3C3C4C);
+  }
+  .this-could-include-tips-on-budgeting-risk-management-and-project-finance-the-content-can-elaborate-on-our-website-167 {
+    margin-bottom: 38px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--gray-shades-70, #8A8A94);
+  }
+  .frame-33742168 {
+    border-bottom: 1px solid var(--3-c-3-c-4-c, #3C3C4C);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    padding-right: 0.3px;
+    box-sizing: border-box;
+  }
+  .contact-our-team-169 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--3-c-3-c-4-c, #3C3C4C);
+  }
+  .frame-33773170 {
+    margin: 0 644.5px 24px 0;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .rectangle-2171 {
+    background: var(--primaryprimary-6, #C55A11);
+    margin-right: 24px;
+    width: 7px;
+    height: 148px;
+  }
+  .frame-33772172 {
+    margin: 17px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .testimonials {
+    margin-bottom: 10px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-regular-font-weight, 400);
+    font-size: var(--px-text-lg-regular-font-size, 18px);
+    line-height: var(--px-text-lg-regular-line-height, 1.556);
+    color: var(--gray-shades-70, #8A8A94);
+  }
+  .mining-industry-testimonials-that-speak-volumes {
+    overflow-wrap: break-word;
+    font-family: var(--px-display-sm-semibold-font-family, 'Poppins');
+    font-weight: var(--px-display-sm-semibold-font-weight, 600);
+    font-size: var(--px-display-sm-semibold-font-size, 30px);
+    line-height: var(--px-display-sm-semibold-line-height, 1.267);
+    color: var(--3-c-3-c-4-c, #3C3C4C);
+  }
+  .frame-33720 {
+    margin-bottom: 120px;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-end;
+    width: 1401px;
+    box-sizing: border-box;
+  }
+  .frame-33717 {
+    margin: 0 137.8px 46px 137.8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .our-insightful-blog {
+    margin: 0 0.3px 14px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--px-display-sm-semibold-font-family, 'Poppins');
+    font-weight: var(--px-display-sm-semibold-font-weight, 600);
+    font-size: var(--px-display-sm-semibold-font-size, 30px);
+    line-height: var(--px-display-sm-semibold-line-height, 1.267);
+    color: var(--3-c-3-c-4-c, #3C3C4C);
+  }
+  .mines-x-com-is-an-online-platform-connecting-buyers-and-sellers-of-mining-projects-worldwide {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-regular-font-weight, 400);
+    font-size: var(--px-text-lg-regular-font-size, 18px);
+    line-height: var(--px-text-lg-regular-line-height, 1.556);
+    color: var(--graygrey-4, #84848E);
+  }
+  .frame-33729 {
+    position: relative;
+    margin-bottom: 82px;
+    display: flex;
+    flex-direction: row;
+    width: 1401px;
+    box-sizing: border-box;
+  }
+  .frame-14786 {
+    margin-right: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .frame-14785173 {
+    border-radius: 8px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/GUQHESdMV1EHyarNxt4R4F/assets/images/c8c33c5df021f560916c7c38e22d26cb6a6eace9?Expires=1711539982&KeyName=fn12-cdn&Signature=9RsJUEzT40qo0z5ZglZi0zXvMcc=') 50% / cover no-repeat, url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/GUQHESdMV1EHyarNxt4R4F/assets/images/c6d2682abe330deffddd301e51b995e3161c4dbf?Expires=1711539982&KeyName=fn12-cdn&Signature=AU9j-FoixjCnLGECcoMLgTlPtnQ=') 50% / cover no-repeat;
+    margin-bottom: 24px;
+    width: 451px;
+    height: 200px;
+  }
+  .frame-33715174 {
+    margin-right: 0.3px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .sale-of-mining-and-from-ore-to-brilliance-minings-transformative-pathways-unveiled {
+    margin: 0 5.7px 18px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-medium-font-weight, 500);
+    font-size: var(--px-text-lg-medium-font-size, 18px);
+    line-height: var(--px-text-lg-medium-line-height, 1.556);
+    color: var(--graygrey-6, #3C3C4C);
+  }
+  .opportunity-to-acquire-an-established-gold-mine-with-significant-infrastructure-unrestricted-access-to-all-project-listings-market-metrics-and-transaction-valuations {
+    margin: 0 2.8px 10px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--graygrey-4, #84848E);
+  }
+  .title-175 {
+    margin: 1px 9px 1px 0;
+    display: inline-block;
+    width: 366.3px;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-xs-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-xs-regular-font-weight, 400);
+    font-size: var(--px-text-xs-regular-font-size, 12px);
+    line-height: var(--px-text-xs-regular-line-height, 1.5);
+    color: var(--graygrey-4, #84848E);
+  }
+  .button-176 {
+    border-radius: 4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .title-177 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--primaryprimary-6, #C55A11);
+  }
+  .frame-14786178 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .frame-14785179 {
+    border-radius: 8px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/GUQHESdMV1EHyarNxt4R4F/assets/images/79d91e4210903b11007a13c4b238a2b3dc96172a?Expires=1711539982&KeyName=fn12-cdn&Signature=LHQ_Ha-crJa8_-Cf7qjveRDlq0M=');
+    margin-bottom: 24px;
+    width: 451px;
+    height: 200px;
+  }
+  .frame-33715180 {
+    position: relative;
+    margin-right: 0.3px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .highly-prospective-base-metals-project-located-in-the-underexplored-mc-arthur-basin-northern-territory {
+    position: relative;
+    margin: 0 7.7px 60px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-medium-font-weight, 500);
+    font-size: var(--px-text-lg-medium-font-size, 18px);
+    line-height: var(--px-text-lg-medium-line-height, 1.556);
+    color: var(--graygrey-6, #3C3C4C);
+  }
+  .opportunity-to-acquire-an-established-gold-mine-with-significant-infrastructure-unrestricted-access-to-all-project-listings-market-metrics-and-transaction-valuations-181 {
+    position: absolute;
+    left: 0px;
+    bottom: 30px;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--graygrey-4, #84848E);
+  }
+  .frame-33714 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 450.7px;
+    box-sizing: border-box;
+  }
+  .title-182 {
+    margin: 1px 9px 1px 0;
+    display: inline-block;
+    width: 366.3px;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-xs-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-xs-regular-font-weight, 400);
+    font-size: var(--px-text-xs-regular-font-size, 12px);
+    line-height: var(--px-text-xs-regular-line-height, 1.5);
+    color: var(--graygrey-4, #84848E);
+  }
+  .button-183 {
+    border-radius: 4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .title-184 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--primaryprimary-6, #C55A11);
+  }
+  .frame-14786185 {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .frame-14785186 {
+    border-radius: 8px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/GUQHESdMV1EHyarNxt4R4F/assets/images/3b42b84da40d61c9ec5a4bcf7ef505cae4f80fb6?Expires=1711539982&KeyName=fn12-cdn&Signature=Zlk9SUaNVHq3Qf9Dhho-H4gwqW0=') 50% / cover no-repeat;
+    margin-bottom: 24px;
+    width: 451px;
+    height: 200px;
+  }
+  .frame-33715187 {
+    margin-right: 0.3px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .significant-base-metals-opportunity-in-tier-1-jurisdiction-of-western-australia {
+    margin-bottom: 18px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-medium-font-weight, 500);
+    font-size: var(--px-text-lg-medium-font-size, 18px);
+    line-height: var(--px-text-lg-medium-line-height, 1.556);
+    color: var(--graygrey-6, #3C3C4C);
+  }
+  .opportunity-to-acquire-an-established-gold-mine-with-significant-infrastructure-unrestricted-access-to-all-project-listings-market-metrics-and-transaction-valuations-188 {
+    margin: 0 2.8px 10px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--graygrey-4, #84848E);
+  }
+  .title-189 {
+    margin: 1px 9px 1px 0;
+    display: inline-block;
+    width: 366.3px;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-xs-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-xs-regular-font-weight, 400);
+    font-size: var(--px-text-xs-regular-font-size, 12px);
+    line-height: var(--px-text-xs-regular-line-height, 1.5);
+    color: var(--graygrey-4, #84848E);
+  }
+  .button-190 {
+    border-radius: 4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .title-191 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--primaryprimary-6, #C55A11);
+  }
+  .frame-33719 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-start;
+    width: 1116px;
+    box-sizing: border-box;
+  }
+  .button-192 {
+    border-radius: 8px;
+    background: var(--gray-shades-10, #F5F5F6);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 12px 0;
+    width: 180px;
+    box-sizing: border-box;
+  }
+  .title-193 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-medium-font-weight, 500);
+    font-size: var(--px-text-lg-medium-font-size, 18px);
+    line-height: var(--px-text-lg-medium-line-height, 1.556);
+    color: var(--3-c-3-c-4-c, #3C3C4C);
+  }
+  .group-5194 {
+    margin: 19.5px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 166px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .vector-190195 {
+    width: 51px;
+    height: 13px;
+  }
+  .vector-190196 {
+    width: 51px;
+    height: 13px;
+  }
+  .frame-33724 {
+    position: relative;
+    margin: 0 0 75px 1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 73px 0;
+    width: 1442px;
+    box-sizing: border-box;
+  }
+  .rectangle-418 {
+    position: absolute;
+    left: 0px;
+    top: 45px;
+    width: 908px;
+    height: 140px;
+  }
+  .rectangle-418197 {
+    position: absolute;
+    top: 45px;
+    right: 0px;
+    width: 667px;
+    height: 140px;
+  }
+  .frame-14825 {
+    position: relative;
+    margin: 4px 0 2px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .need-assistance {
+    margin-bottom: 6px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-display-xs-regular-font-family, 'Poppins');
+    font-weight: var(--px-display-xs-regular-font-weight, 400);
+    font-size: var(--px-display-xs-regular-font-size, 24px);
+    line-height: var(--px-display-xs-regular-line-height, 1.333);
+    color: var(--graygrey-4, #84848E);
+  }
+  .well-help-you-find-your-right-project {
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 1.333;
+    color: var(--primaryprimary-6, #C55A11);
+  }
+  .well-help-you-find-your-right-project-sub3 {
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 1.333;
+  }
+  .frame-14827 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 341px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .takes-less-than-1-minute {
+    margin-bottom: 6px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-md-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-md-regular-font-weight, 400);
+    font-size: var(--px-text-md-regular-font-size, 16px);
+    line-height: var(--px-text-md-regular-line-height, 1.5);
+    color: var(--graygrey-4, #84848E);
+  }
+  .frame-14727198 {
+    border-radius: 4px;
+    background: var(--primaryprimary-6, #C55A11);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 12px 0px 12px 0;
+    width: 341px;
+    box-sizing: border-box;
+  }
+  .submit-your-requirement {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-xl-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-xl-medium-font-weight, 500);
+    font-size: var(--px-text-xl-medium-font-size, 20px);
+    line-height: var(--px-text-xl-medium-line-height, 1.5);
+    color: var(--primaryprimary-1, #F9EFE7);
+  }
+  .vector-199 {
+    position: absolute;
+    right: 489px;
+    bottom: 0px;
+    width: 256px;
+    height: 230px;
+  }
+  .footer {
+    background: var(--graygrey-9, #22222B);
+    display: flex;
+    flex-direction: row;
+    padding: 48px 0;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .section {
+    margin-right: 113.4px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .navigation {
+    opacity: 0.4;
+    margin-bottom: 18px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-xs-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-xs-regular-font-weight, 400);
+    font-size: var(--px-text-xs-regular-font-size, 12px);
+    line-height: var(--px-text-xs-regular-line-height, 1.5);
+    color: var(--secondary-shades-white, #FFFFFF);
+  }
+  .group-200 {
+    margin-bottom: 18px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .list {
+    margin-right: 83px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .about-us {
+    margin-bottom: 10px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--secondary-shades-white, #FFFFFF);
+  }
+  .careers {
+    margin-bottom: 10px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--secondary-shades-white, #FFFFFF);
+  }
+  .for-partners {
+    margin-bottom: 10px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--secondary-shades-white, #FFFFFF);
+  }
+  .payment {
+    margin-bottom: 10px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--secondary-shades-white, #FFFFFF);
+  }
+  .contact-us {
+    margin: 0 5.7px 10px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--secondary-shades-white, #FFFFFF);
+  }
+  .news {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--secondary-shades-white, #FFFFFF);
+  }
+  .list-201 {
+    margin: 0 82.9px 60px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .brand-assets {
+    margin-bottom: 10px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--secondary-shades-white, #FFFFFF);
+  }
+  .newsletters {
+    margin-bottom: 10px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--secondary-shades-white, #FFFFFF);
+  }
+  .company-profile {
+    margin-bottom: 10px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--secondary-shades-white, #FFFFFF);
+  }
+  .client-endorsement {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--secondary-shades-white, #FFFFFF);
+  }
+  .list-202 {
+    margin-bottom: 90px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .buy {
+    margin-bottom: 10px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--secondary-shades-white, #FFFFFF);
+  }
+  .sell {
+    margin-bottom: 10px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--secondary-shades-white, #FFFFFF);
+  }
+  .enquiry {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--secondary-shades-white, #FFFFFF);
+  }
+  .group-203 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 493.6px;
+    box-sizing: border-box;
+  }
+  .layer-1 {
+    width: 180px;
+    height: 82px;
+  }
+  .list-212 {
+    margin: 3px 0 15px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .copyright {
+    opacity: 0.4;
+    margin-bottom: 5px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-xs-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-xs-regular-font-weight, 400);
+    font-size: var(--px-text-xs-regular-font-size, 12px);
+    line-height: var(--px-text-xs-regular-line-height, 1.5);
+    color: var(--secondary-shades-white, #FFFFFF);
+  }
+  .privacy {
+    opacity: 0.4;
+    margin-bottom: 5px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-xs-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-xs-regular-font-weight, 400);
+    font-size: var(--px-text-xs-regular-font-size, 12px);
+    line-height: var(--px-text-xs-regular-line-height, 1.5);
+    color: var(--secondary-shades-white, #FFFFFF);
+  }
+  .all-rights-reserved {
+    opacity: 0.4;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-xs-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-xs-regular-font-weight, 400);
+    font-size: var(--px-text-xs-regular-font-size, 12px);
+    line-height: var(--px-text-xs-regular-line-height, 1.5);
+    color: var(--secondary-shades-white, #FFFFFF);
+  }
+  .frame-249 {
+    margin-bottom: 19px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .section-213 {
+    margin-bottom: 32px;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .contact-us-214 {
+    opacity: 0.4;
+    margin-bottom: 18px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-xs-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-xs-regular-font-weight, 400);
+    font-size: var(--px-text-xs-regular-font-size, 12px);
+    line-height: var(--px-text-xs-regular-line-height, 1.5);
+    color: var(--secondary-shades-white, #FFFFFF);
+  }
+  .group-215 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 405.7px;
+    box-sizing: border-box;
+  }
+  .list-216 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .phn-num {
+    margin-bottom: 5px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--secondary-shades-white, #FFFFFF);
+  }
+  .phn-num-2 {
+    margin-right: 4.3px;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--secondary-shades-white, #FFFFFF);
+  }
+  .generalenquiryminex-com {
+    margin-bottom: 25px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--secondary-shades-white, #FFFFFF);
+  }
+  .section-217 {
+    margin-bottom: 32px;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .location {
+    opacity: 0.4;
+    margin-bottom: 18px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-xs-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-xs-regular-font-weight, 400);
+    font-size: var(--px-text-xs-regular-font-size, 12px);
+    line-height: var(--px-text-xs-regular-line-height, 1.5);
+    color: var(--secondary-shades-white, #FFFFFF);
+  }
+  .westheimer-rd-santa-tamil-nadu-685486 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-regular-font-weight, 400);
+    font-size: var(--px-text-sm-regular-font-size, 14px);
+    line-height: var(--px-text-sm-regular-line-height, 1.429);
+    color: var(--secondary-shades-white, #FFFFFF);
+  }
+  .group-218 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 496px;
+    box-sizing: border-box;
+  }
+  .section-219 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .follow-us {
+    opacity: 0.4;
+    margin-bottom: 18px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-xs-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-xs-regular-font-weight, 400);
+    font-size: var(--px-text-xs-regular-font-size, 12px);
+    line-height: var(--px-text-xs-regular-line-height, 1.5);
+    color: var(--secondary-shades-white, #FFFFFF);
+  }
+  .list-220 {
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+    width: 230px;
+    box-sizing: border-box;
+  }
+  .item {
+    border-radius: 50px;
+    border: 1px solid var(--primaryprimary-5, #CF783C);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 16px;
+    width: 50px;
+    height: 50px;
+    box-sizing: border-box;
+  }
+  .vector-221 {
+    width: 16px;
+    height: 16px;
+  }
+  .item-222 {
+    border-radius: 50px;
+    border: 1px solid var(--primaryprimary-5, #CF783C);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 16.3px 12px;
+    width: 50px;
+    height: 50px;
+    box-sizing: border-box;
+  }
+  .vector-223 {
+    width: 24px;
+    height: 15.4px;
+  }
+  .item-224 {
+    border-radius: 50px;
+    border: 1px solid var(--primaryprimary-5, #CF783C);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 16px;
+    width: 50px;
+    height: 50px;
+    box-sizing: border-box;
+  }
+  .vector-225 {
+    width: 16px;
+    height: 16px;
+  }
+  .item-226 {
+    border-radius: 50px;
+    border: 1px solid var(--primaryprimary-5, #CF783C);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 16px 13px;
+    width: 50px;
+    height: 50px;
+    box-sizing: border-box;
+  }
+  .youtube {
+    width: 22px;
+    height: 16px;
+  }
+  .section-227 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .lets-chat {
+    opacity: 0.4;
+    margin-bottom: 18px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-xs-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-xs-regular-font-weight, 400);
+    font-size: var(--px-text-xs-regular-font-size, 12px);
+    line-height: var(--px-text-xs-regular-line-height, 1.5);
+    color: var(--secondary-shades-white, #FFFFFF);
+  }
+  .list-228 {
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+    width: 170px;
+    box-sizing: border-box;
+  }
+  .item-229 {
+    border-radius: 50px;
+    border: 1px solid var(--primaryprimary-5, #CF783C);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 15px;
+    width: 50px;
+    height: 50px;
+    box-sizing: border-box;
+  }
+  .vector-230 {
+    width: 18px;
+    height: 18px;
+  }
+  .item-231 {
+    border-radius: 50px;
+    border: 1px solid var(--primaryprimary-5, #CF783C);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 17.5px 16px;
+    width: 50px;
+    height: 50px;
+    box-sizing: border-box;
+  }
+  .telegram {
+    width: 16px;
+    height: 13px;
+  }
+  .item-232 {
+    border-radius: 50px;
+    border: 1px solid var(--primaryprimary-5, #CF783C);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 15px;
+    width: 50px;
+    height: 50px;
+    box-sizing: border-box;
+  }
+  .whatsapp {
+    width: 18px;
+    height: 18px;
+  }
+  .frame-1 {
+    border-bottom: 1px solid var(--gray-shades-100, #50505E);
+    background: var(--graygrey-9, #22222B);
+    position: relative;
+    margin-bottom: 149px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 8px 0 7px 0;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .group-15 {
+    width: 142px;
+    height: 54px;
+  }
+  .frame-33734 {
+    margin: 7px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 581px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-14730 {
+    margin: 3px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 208.5px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-14801 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .buy-248 {
+    margin: 0 10px 6px 9.5px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--primaryprimary-6, #C55A11);
+  }
+  .rectangle-1 {
+    border-radius: 23px;
+    background: #FFC000;
+    width: 50px;
+    height: 4px;
+  }
+  .frame-14801249 {
+    margin: 5px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .sell-250 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-md-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-md-regular-font-weight, 400);
+    font-size: var(--px-text-md-regular-font-size, 16px);
+    line-height: var(--px-text-md-regular-line-height, 1.5);
+    color: var(--gray-shades-50, #B1B1B7);
+  }
+  .help {
+    margin: 5px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-md-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-md-regular-font-weight, 400);
+    font-size: var(--px-text-md-regular-font-size, 16px);
+    line-height: var(--px-text-md-regular-line-height, 1.5);
+    color: var(--gray-shades-50, #B1B1B7);
+  }
+  .frame-14727251 {
+    border-radius: 4px;
+    background: var(--3-c-3-c-4-c, #3C3C4C);
+    margin-right: 18px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px 18.9px 10px 18px;
+    box-sizing: border-box;
+  }
+  .list-your-property {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--faf-3-e-5, #FAF3E5);
+  }
+  .frame-14727252 {
+    border-radius: 4px;
+    background: var(--faf-3-e-5, #FAF3E5);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px 18.7px 10px 18px;
+    box-sizing: border-box;
+  }
+  .signup-or-login {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--3-c-3-c-4-c, #3C3C4C);
+  }
+  .frame-14727253 {
+    box-shadow: var(--shadows-extra-large, 0px 24px 32px 0px rgba(0, 0, 0, 0.04)), var(--shadows-extra-large, 0px 16px 24px 0px rgba(0, 0, 0, 0.04)), var(--shadows-extra-large, 0px 4px 8px 0px rgba(0, 0, 0, 0.04)), var(--shadows-extra-large, 0px 0px 1px 0px rgba(0, 0, 0, 0.04));
+    border-radius: 8px;
+    border-top: 0.5px solid var(--gray-shades-50, #B1B1B7);
+    background: var(--primary-shades-white, #FFFFFF);
+    position: absolute;
+    top: 452px;
+    right: 302px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 11.5px 12px 12px 12px;
+    width: 810px;
+    box-sizing: border-box;
+  }
+  .ask-mine-x-ai-find-me-mines-in-perth {
+    margin: 12px 12px 12px 0;
+    display: inline-block;
+    width: 641px;
+    overflow-wrap: break-word;
+    font-family: var(--px-text-md-regular-font-family, 'Poppins');
+    font-weight: var(--px-text-md-regular-font-weight, 400);
+    font-size: var(--px-text-md-regular-font-size, 16px);
+    line-height: var(--px-text-md-regular-line-height, 1.5);
+    color: var(--graygrey-3, #ABABB2);
+  }
+  .frame-14727254 {
+    border-radius: 4px;
+    background: var(--3-c-3-c-4-c, #3C3C4C);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 12px 0.5px 12px 0;
+    width: 133px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .search {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-md-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-md-medium-font-weight, 500);
+    font-size: var(--px-text-md-medium-font-size, 16px);
+    line-height: var(--px-text-md-medium-line-height, 1.5);
+    color: var(--primaryprimary-1, #F9EFE7);
+  }
+  .frame-33806 {
+    position: absolute;
+    left: 174px;
+    top: 299px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 6px;
+    box-sizing: border-box;
+  }
+  .frame-14727255 {
+    border-radius: 4px;
+    background: #E2B70A;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: 4px 4.6px 4px 4px;
+    box-sizing: border-box;
+  }
+  .frame-34577 {
+    margin-right: 2px;
+    width: 23px;
+    height: 20px;
+  }
+  .gold-mine {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--faf-3-e-5, #FAF3E5);
+  }
+  .frame-33807 {
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 15px;
+    height: 8px;
+    box-sizing: border-box;
+  }
+  .polygon-1 {
+    width: 15px;
+    height: 8px;
+  }
+  .frame-14727260 {
+    border-radius: 4px;
+    background: #E2B70A;
+    position: absolute;
+    left: 186px;
+    top: 313px;
+    display: flex;
+    flex-direction: row;
+    padding: 4px 4.6px 4px 4px;
+    box-sizing: border-box;
+  }
+  .frame-34577261 {
+    margin-right: 2px;
+    width: 23px;
+    height: 20px;
+  }
+  .gold-mine-266 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--faf-3-e-5, #FAF3E5);
+  }
+  .frame-33807267 {
+    position: absolute;
+    left: 230.5px;
+    top: 339px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 15px;
+    height: 8px;
+    box-sizing: border-box;
+  }
+  .polygon-1268 {
+    width: 15px;
+    height: 8px;
+  }
+  .frame-33806269 {
+    position: absolute;
+    left: 464px;
+    top: 269px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 6px;
+    box-sizing: border-box;
+  }
+  .frame-14727270 {
+    border-radius: 4px;
+    background: var(--red-1, #FF3B30);
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: 4px 4.6px 4px 4px;
+    box-sizing: border-box;
+  }
+  .frame-34577271 {
+    margin-right: 2px;
+    width: 23px;
+    height: 20px;
+  }
+  .gold-mine-276 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--faf-3-e-5, #FAF3E5);
+  }
+  .frame-33807277 {
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 15px;
+    height: 8px;
+    box-sizing: border-box;
+  }
+  .polygon-1278 {
+    width: 15px;
+    height: 8px;
+  }
+  .frame-33806279 {
+    position: absolute;
+    left: 537px;
+    top: 154px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 6px;
+    box-sizing: border-box;
+  }
+  .frame-14727280 {
+    border-radius: 4px;
+    background: #E2B70A;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: 4px 4.6px 4px 4px;
+    box-sizing: border-box;
+  }
+  .frame-34577281 {
+    margin-right: 2px;
+    width: 23px;
+    height: 20px;
+  }
+  .gold-mine-286 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--faf-3-e-5, #FAF3E5);
+  }
+  .frame-33807287 {
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 15px;
+    height: 8px;
+    box-sizing: border-box;
+  }
+  .polygon-1288 {
+    width: 15px;
+    height: 8px;
+  }
+  .frame-33806289 {
+    position: absolute;
+    left: 385px;
+    top: 216px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 6px;
+    box-sizing: border-box;
+  }
+  .frame-14727290 {
+    border-radius: 4px;
+    background: var(--red-1, #FF3B30);
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: 4px 4.6px 4px 4px;
+    box-sizing: border-box;
+  }
+  .frame-34577291 {
+    margin-right: 2px;
+    width: 23px;
+    height: 20px;
+  }
+  .gold-mine-296 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--faf-3-e-5, #FAF3E5);
+  }
+  .frame-33807297 {
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 15px;
+    height: 8px;
+    box-sizing: border-box;
+  }
+  .polygon-1298 {
+    width: 15px;
+    height: 8px;
+  }
+  .frame-33806299 {
+    position: absolute;
+    left: 222px;
+    top: 232px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 6px;
+    box-sizing: border-box;
+  }
+  .frame-14727300 {
+    border-radius: 4px;
+    background: var(--red-1, #FF3B30);
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: 4px 4.6px 4px 4px;
+    box-sizing: border-box;
+  }
+  .frame-34577301 {
+    margin-right: 2px;
+    width: 23px;
+    height: 20px;
+  }
+  .gold-mine-306 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--faf-3-e-5, #FAF3E5);
+  }
+  .frame-33807307 {
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 15px;
+    height: 8px;
+    box-sizing: border-box;
+  }
+  .polygon-1308 {
+    width: 15px;
+    height: 8px;
+  }
+  .frame-33806309 {
+    position: absolute;
+    left: 389px;
+    top: 160px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 6px;
+    box-sizing: border-box;
+  }
+  .frame-14727310 {
+    border-radius: 4px;
+    background: #E2B70A;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: 4px 4.6px 4px 4px;
+    box-sizing: border-box;
+  }
+  .frame-34577311 {
+    margin-right: 2px;
+    width: 23px;
+    height: 20px;
+  }
+  .gold-mine-316 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--faf-3-e-5, #FAF3E5);
+  }
+  .frame-33807317 {
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 15px;
+    height: 8px;
+    box-sizing: border-box;
+  }
+  .polygon-1318 {
+    width: 15px;
+    height: 8px;
+  }
+  .frame-33806319 {
+    position: absolute;
+    left: 263px;
+    top: 147px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 6px;
+    box-sizing: border-box;
+  }
+  .frame-14727320 {
+    border-radius: 4px;
+    background: var(--red-1, #FF3B30);
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: 4px 4.6px 4px 4px;
+    box-sizing: border-box;
+  }
+  .frame-34577321 {
+    margin-right: 2px;
+    width: 23px;
+    height: 20px;
+  }
+  .gold-mine-326 {
+    overflow-wrap: break-word;
+    font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-sm-medium-font-weight, 500);
+    font-size: var(--px-text-sm-medium-font-size, 14px);
+    line-height: var(--px-text-sm-medium-line-height, 1.429);
+    color: var(--faf-3-e-5, #FAF3E5);
+  }
+  .frame-33807327 {
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 15px;
+    height: 8px;
+    box-sizing: border-box;
+  }
+  .polygon-1328 {
+    width: 15px;
+    height: 8px;
+  }
+  .container-329 {
+    margin: 0 0 189px 9.4px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .container-330 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 450.7px;
+    box-sizing: border-box;
+  }
+  .container-331 {
+    margin: 31px 0 32px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .container-332 {
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 24px;
+    width: 1116px;
+    box-sizing: border-box;
+  }
+  .container-333 {
+    position: relative;
+    margin-bottom: 28px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .container-334 {
+    margin-bottom: 113px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1116px;
+    box-sizing: border-box;
+  }
+  .container-335 {
+    margin-bottom: 65px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1116px;
+    box-sizing: border-box;
+  }
+  .container-336 {
+    display: flex;
+    flex-direction: row;
+    column-gap: 24px;
+    width: 1116px;
+    box-sizing: border-box;
+  }
+  .container-337 {
+    margin: 61px 62.1px 62px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .container-338 {
+    margin: 0 0 75px 11px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .container-339 {
+    background: #22222B;
+    position: relative;
+    margin-bottom: 669px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 18px 7px 126px 9px;
+    width: 1456px;
+    box-sizing: border-box;
+  }
+  .container-340 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }

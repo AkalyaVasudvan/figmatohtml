@@ -1,0 +1,3379 @@
+.home-3 {
+  background: var(--white, #FFFFFF);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 90rem;
+  box-sizing: border-box;
+}
+
+.heading-1{
+    font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+    font-weight: var(--px-text-lg-medium-font-weight, 500);
+    text-align: right;
+    margin-left: 25rem;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.planet-earth-background-11 {
+  opacity: 0.35;
+  mix-blend-mode: screen;
+  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/iKuPNofJkWBDmhDojVDQi/assets/images/249fb32dcc0749a252fe3fb879ab1e65a244ea8c?Expires=1711552011&KeyName=fn12-cdn&Signature=9lJQNtcgFm7gbL4E_jQlwPYAKOY=');
+  position: absolute;
+  left: 0.6rem;
+  bottom: 0rem;
+  width: 71.9rem;
+  height: 30.6rem;
+}
+.planet-earth-background-111 {
+  mix-blend-mode: screen;
+  border-radius: 16.4rem;
+  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/iKuPNofJkWBDmhDojVDQi/assets/images/249fb32dcc0749a252fe3fb879ab1e65a244ea8c?Expires=1711552011&KeyName=fn12-cdn&Signature=9lJQNtcgFm7gbL4E_jQlwPYAKOY=');
+  position: absolute;
+  left: 10rem;
+  top: 6.4rem;
+  width: 30.8rem;
+  height: 31.1rem;
+
+}
+.planet-earth-background-112 {
+  opacity: 0.35;
+  mix-blend-mode: screen;
+  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/iKuPNofJkWBDmhDojVDQi/assets/images/249fb32dcc0749a252fe3fb879ab1e65a244ea8c?Expires=1711552011&KeyName=fn12-cdn&Signature=9lJQNtcgFm7gbL4E_jQlwPYAKOY=');
+  position: absolute;
+  right: 0.5rem;
+  bottom: 0rem;
+  width: 18rem;
+  height: 30.6rem;
+}
+.mining-projects-around-the-world {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 3.4rem;
+  letter-spacing: -0.1rem;
+  line-height: 1.333;
+}
+.mining-projects-around-the-world-sub80 {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 3.4rem;
+  letter-spacing: -0.1rem;
+  line-height: 1.333;
+  color: var(--faf-3-e-5, #FAF3E5);
+}
+.beyond-limits-below-the-surface {
+  position: absolute;
+  top: 12.8rem;
+  right: 24.5rem;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-regular-font-weight, 400);
+  font-size: var(--px-text-lg-regular-font-size, 1.1rem);
+  line-height: var(--px-text-lg-regular-line-height, 1.556);
+  color: var(--gray-shades-50, #B1B1B7);
+}
+.frame-33755 {
+  background: #F5F5F6;
+  position: absolute;
+  left: 0rem;
+  top: 30.6rem;
+  right: 0rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 6.3rem 8.9rem 6.3rem 0;
+  box-sizing: border-box;
+}
+.frame-33754 {
+  margin: 0 47.8rem 2.4rem 0;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.discover {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-regular-font-weight, 400);
+  font-size: var(--px-text-lg-regular-font-size, 1.1rem);
+  line-height: var(--px-text-lg-regular-line-height, 1.556);
+  color: var(--gray-shades-70, #8A8A94);
+}
+.explore-by-commodities {
+  overflow-wrap: break-word;
+  font-family: var(--px-display-sm-semibold-font-family, 'Poppins');
+  font-weight: var(--px-display-sm-semibold-font-weight, 600);
+  font-size: var(--px-display-sm-semibold-font-size, 1.9rem);
+  line-height: var(--px-display-sm-semibold-line-height, 1.267);
+  color: var(--3-c-3-c-4-c, #3C3C4C);
+}
+.frame-33753 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  column-gap: 1.5rem;
+  padding-right: 1.3rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-33738 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-33736 {
+  border-radius: 0.5rem;
+  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/iKuPNofJkWBDmhDojVDQi/assets/images/3040583b751ce0cdccf1ef0ba1aa3ccbaac43dcf?Expires=1711552011&KeyName=fn12-cdn&Signature=gi_TJ9UHysJ-iFeAm53n9G_lgYo=') 50% / cover no-repeat;
+  margin-bottom: 0.9rem;
+  width: 10.4rem;
+  height: 12.3rem;
+}
+.frame-33737 {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.coal {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-medium-font-weight, 500);
+  font-size: var(--px-text-lg-medium-font-size, 1.1rem);
+  line-height: var(--px-text-lg-medium-line-height, 1.556);
+  color: var(--3-c-3-c-4-c, #3C3C4C);
+}
+.projects {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--gray-shades-70, #8A8A94);
+}
+.frame-337383 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-337364 {
+  border-radius: 0.5rem;
+  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/iKuPNofJkWBDmhDojVDQi/assets/images/57d46ed57f6a5d9602e0ee294bd81bf43b159f7e?Expires=1711552011&KeyName=fn12-cdn&Signature=xVpR4x2bG8NaarWv36mvFzTT3a8=') 50% / cover no-repeat;
+  margin-bottom: 0.9rem;
+  width: 10.4rem;
+  height: 12.3rem;
+}
+.frame-337375 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.cobalt {
+  margin-right: 1rem;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-medium-font-weight, 500);
+  font-size: var(--px-text-lg-medium-font-size, 1.1rem);
+  line-height: var(--px-text-lg-medium-line-height, 1.556);
+  color: var(--3-c-3-c-4-c, #3C3C4C);
+}
+.projects-6 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--gray-shades-70, #8A8A94);
+}
+.frame-337387 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-337368 {
+  border-radius: 0.5rem;
+  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/iKuPNofJkWBDmhDojVDQi/assets/images/7ad9494bbeb5550446cd09b4e28d47347a02ed78?Expires=1711552011&KeyName=fn12-cdn&Signature=suxaGDFRddK-UUimd3lEb80rVlQ=') 50% / cover no-repeat;
+  margin-bottom: 0.9rem;
+  width: 10.4rem;
+  height: 12.3rem;
+}
+.frame-337379 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.copper {
+  margin-right: 0.6rem;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-medium-font-weight, 500);
+  font-size: var(--px-text-lg-medium-font-size, 1.1rem);
+  line-height: var(--px-text-lg-medium-line-height, 1.556);
+  color: var(--3-c-3-c-4-c, #3C3C4C);
+}
+.projects-10 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--gray-shades-70, #8A8A94);
+}
+.frame-3373811 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-3373612 {
+  border-radius: 0.5rem;
+  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/iKuPNofJkWBDmhDojVDQi/assets/images/9175139685f9f14babed3b49f949e7932d5488cc?Expires=1711552011&KeyName=fn12-cdn&Signature=ycsDPT-1x0sl7fHfBEzKrXH_h5o=') 50% / cover no-repeat;
+  margin-bottom: 0.9rem;
+  width: 10.4rem;
+  height: 12.3rem;
+}
+.frame-3373713 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.energy {
+  margin-right: 0.9rem;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-medium-font-weight, 500);
+  font-size: var(--px-text-lg-medium-font-size, 1.1rem);
+  line-height: var(--px-text-lg-medium-line-height, 1.556);
+  color: var(--3-c-3-c-4-c, #3C3C4C);
+}
+.projects-14 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--gray-shades-70, #8A8A94);
+}
+.frame-3373815 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-3373616 {
+  border-radius: 0.5rem;
+  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/iKuPNofJkWBDmhDojVDQi/assets/images/8386ee14ab3d59e0df6327248ccf8154697304ab?Expires=1711552011&KeyName=fn12-cdn&Signature=HUK1yN0Ti_nLinDUptU4lHf3uFU=') 50% / cover no-repeat;
+  margin-bottom: 0.9rem;
+  width: 10.4rem;
+  height: 12.3rem;
+}
+.frame-3373717 {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.gold {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-medium-font-weight, 500);
+  font-size: var(--px-text-lg-medium-font-size, 1.1rem);
+  line-height: var(--px-text-lg-medium-line-height, 1.556);
+  color: var(--3-c-3-c-4-c, #3C3C4C);
+}
+.projects-18 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--gray-shades-70, #8A8A94);
+}
+.frame-3373819 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-3373620 {
+  border-radius: 0.5rem;
+  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/iKuPNofJkWBDmhDojVDQi/assets/images/5999324340eefbafe2a408f10c562e7355d96f19?Expires=1711552011&KeyName=fn12-cdn&Signature=J0hW7FoCEP_aXzys1BYzZ3snH-M=') 50% / cover no-repeat;
+  margin-bottom: 0.9rem;
+  width: 10.4rem;
+  height: 12.3rem;
+}
+.frame-3373721 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.graphite {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-medium-font-weight, 500);
+  font-size: var(--px-text-lg-medium-font-size, 1.1rem);
+  line-height: var(--px-text-lg-medium-line-height, 1.556);
+  color: var(--3-c-3-c-4-c, #3C3C4C);
+}
+.projects-22 {
+  margin-right: 0.1rem;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--gray-shades-70, #8A8A94);
+}
+.chevron-forward {
+  box-shadow: var(--shadows-extra-large, 0rem 1.5rem 2rem 0rem rgba(0, 0, 0, 0.04)), var(--shadows-extra-large, 0rem 1rem 1.5rem 0rem rgba(0, 0, 0, 0.04)), var(--shadows-extra-large, 0rem 0.3rem 0.5rem 0rem rgba(0, 0, 0, 0.04)), var(--shadows-extra-large, 0rem 0rem 0.1rem 0rem rgba(0, 0, 0, 0.04));
+  border-radius: 6.3rem;
+  border: 0.1rem solid var(--gray-shades-20, #EBEBED);
+  background: var(--secondary-shades-white, #FFFFFF);
+  position: absolute;
+  top: 5rem;
+  right: 0rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.7rem 0.9rem;
+  width: 2.3rem;
+  height: 2.3rem;
+  box-sizing: border-box;
+}
+.vector {
+  width: 0.4rem;
+  height: 0.8rem;
+}
+.group-5 {
+  margin: 6.2rem 0 2.2rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 10.4rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.vector-190 {
+  width: 3.2rem;
+  height: 0.8rem;
+}
+.vector-19023 {
+  width: 3.2rem;
+  height: 0.8rem;
+}
+.frame-33771 {
+  margin-bottom: 1.7rem;
+  display: flex;
+  flex-direction: row;
+  column-gap: 1.5rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-33767 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-14785 {
+  border-radius: 0.5rem;
+  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/iKuPNofJkWBDmhDojVDQi/assets/images/37d788dc9df72f59c41217f8bcf282ae6741cff1?Expires=1711552011&KeyName=fn12-cdn&Signature=KFY5sTnYs5Pdqgzp_8vamkavthw=') 50% / cover no-repeat;
+  margin-bottom: 1rem;
+  width: 16.3rem;
+  height: 12.8rem;
+}
+.frame-33715 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-6960 {
+  margin-bottom: 0.4rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.ellipse-422 {
+  border-radius: 0.3rem;
+  background: var(--ffc-000, #FFC000);
+  margin: 0.3rem 0.5rem 0.3rem 0;
+  width: 0.6rem;
+  height: 0.6rem;
+}
+.title {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--graygrey-4, #84848E);
+}
+.high-purity-expressions-of-interest-sought-for-gold-mine-and-infrastructure-in-queensland {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-medium-font-weight, 500);
+  font-size: var(--px-text-lg-medium-font-size, 1.1rem);
+  line-height: var(--px-text-lg-medium-line-height, 1.556);
+  color: var(--graygrey-6, #3C3C4C);
+}
+.frame-696024 {
+  position: absolute;
+  left: 0.2rem;
+  bottom: 1rem;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.huge-iconinterfaceoutlinelocation-02 {
+  margin: 0.1rem 0.7rem 0.1rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 0.9rem;
+  height: 1rem;
+  box-sizing: border-box;
+}
+.vector-25 {
+  width: 0.9rem;
+  height: 1rem;
+}
+.title-26 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--graygrey-4, #84848E);
+}
+.frame-33768 {
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-1478527 {
+  border-radius: 0.5rem;
+  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/iKuPNofJkWBDmhDojVDQi/assets/images/7b0363ea5edbdcb8c78b8dd39e660ccbcff5070a?Expires=1711552011&KeyName=fn12-cdn&Signature=WGUiyip6QRCw2TNyTJrL8uob30I=') 50% / cover no-repeat;
+  margin-bottom: 1rem;
+  width: 16.3rem;
+  height: 12.8rem;
+}
+.frame-3371528 {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-696029 {
+  margin-bottom: 0.4rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.ellipse-42230 {
+  border-radius: 0.3rem;
+  background: var(--3-c-3-c-4-c, #3C3C4C);
+  margin: 0.3rem 0.5rem 0.3rem 0;
+  width: 0.6rem;
+  height: 0.6rem;
+}
+.title-31 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--graygrey-4, #84848E);
+}
+.koz-high-grade-vivien-gold-project {
+  margin-bottom: 1.3rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-medium-font-weight, 500);
+  font-size: var(--px-text-lg-medium-font-size, 1.1rem);
+  line-height: var(--px-text-lg-medium-line-height, 1.556);
+  color: var(--graygrey-6, #3C3C4C);
+}
+.frame-696032 {
+  margin: 0 0.2rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.huge-iconinterfaceoutlinelocation-0233 {
+  margin: 0.1rem 0.7rem 0.1rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 0.9rem;
+  height: 1rem;
+  box-sizing: border-box;
+}
+.vector-34 {
+  width: 0.9rem;
+  height: 1rem;
+}
+.title-35 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--graygrey-4, #84848E);
+}
+.frame-33769 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-1478536 {
+  border-radius: 0.5rem;
+  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/iKuPNofJkWBDmhDojVDQi/assets/images/bab80391884fd03217d87ac5aadf1bd1e90cb324?Expires=1711552011&KeyName=fn12-cdn&Signature=F7mXry-PJNKNNVBoYPSv6a_JR34=') 50% / cover no-repeat;
+  margin-bottom: 1rem;
+  width: 16.3rem;
+  margin-left: 6rem;
+  height: 12.8rem;
+}
+.frame-3371537 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-696038 {
+  margin-bottom: 0.4rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.ellipse-42239 {
+  border-radius: 0.3rem;
+  background: var(--c-55-a-11, #C55A11);
+  margin: 0.3rem 0.5rem 0.3rem 0;
+  width: 0.6rem;
+  height: 0.6rem;
+}
+.title-40 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--graygrey-4, #84848E);
+}
+.sale-of-mining-and-exploration-tenements-qld-sa-and-cil-processing-plant-qld {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-medium-font-weight, 500);
+  font-size: var(--px-text-lg-medium-font-size, 1.1rem);
+  line-height: var(--px-text-lg-medium-line-height, 1.556);
+  color: var(--graygrey-6, #3C3C4C);
+}
+.frame-696041 {
+  position: absolute;
+  left: 0.2rem;
+  bottom: 1rem;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.huge-iconinterfaceoutlinelocation-0242 {
+  margin: 0.1rem 0.7rem 0.1rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 0.9rem;
+  height: 1rem;
+  box-sizing: border-box;
+}
+.vector-43 {
+  width: 0.9rem;
+  height: 1rem;
+}
+.title-44 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--graygrey-4, #84848E);
+}
+.frame-33770 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-1478545 {
+  border-radius: 0.5rem;
+  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/iKuPNofJkWBDmhDojVDQi/assets/images/7ad9494bbeb5550446cd09b4e28d47347a02ed78?Expires=1711552011&KeyName=fn12-cdn&Signature=suxaGDFRddK-UUimd3lEb80rVlQ=') 50% / cover no-repeat;
+  margin-bottom: 1rem;
+  width: 16.3rem;
+  margin-left: 6rem;
+  height: 12.8rem;
+}
+.frame-3371546 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-696047 {
+  margin-bottom: 0.4rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.ellipse-42248 {
+  border-radius: 0.3rem;
+  background: var(--ffc-000, #FFC000);
+  margin: 0.3rem 0.5rem 0.3rem 0;
+  width: 0.6rem;
+  height: 0.6rem;
+}
+.title-49 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--graygrey-4, #84848E);
+}
+.high-purity-expressions-of-interest-sought-for-gold-mine-and-infrastructure-in-queensland-50 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-medium-font-weight, 500);
+  font-size: var(--px-text-lg-medium-font-size, 1.1rem);
+  line-height: var(--px-text-lg-medium-line-height, 1.556);
+  color: var(--graygrey-6, #3C3C4C);
+}
+.frame-696051 {
+  position: absolute;
+  left: 0.2rem;
+  bottom: 1rem;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.huge-iconinterfaceoutlinelocation-0252 {
+  margin: 0.1rem 0.7rem 0.1rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 0.9rem;
+  height: 1rem;
+  box-sizing: border-box;
+}
+.vector-53 {
+  width: 0.9rem;
+  height: 1rem;
+}
+.title-54 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--graygrey-4, #84848E);
+}
+.frame-3377155 {
+  margin-bottom: 3.1rem;
+  display: flex;
+  flex-direction: row;
+  column-gap: 1.5rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-3376956 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-1478557 {
+  border-radius: 0.5rem;
+  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/iKuPNofJkWBDmhDojVDQi/assets/images/3040583b751ce0cdccf1ef0ba1aa3ccbaac43dcf?Expires=1711552011&KeyName=fn12-cdn&Signature=gi_TJ9UHysJ-iFeAm53n9G_lgYo=') 50% / cover no-repeat;
+  margin-bottom: 1rem;
+  width: 16.3rem;
+  height: 12.8rem;
+}
+.frame-3371558 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-696059 {
+  margin-bottom: 0.4rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.ellipse-42260 {
+  border-radius: 0.3rem;
+  background: var(--c-55-a-11, #C55A11);
+  margin: 0.3rem 0.5rem 0.3rem 0;
+  width: 0.6rem;
+  height: 0.6rem;
+}
+.title-61 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--graygrey-4, #84848E);
+}
+.sale-of-mining-and-exploration-tenements-qld-sa-and-cil-processing-plant-qld-62 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-medium-font-weight, 500);
+  font-size: var(--px-text-lg-medium-font-size, 1.1rem);
+  line-height: var(--px-text-lg-medium-line-height, 1.556);
+  color: var(--graygrey-6, #3C3C4C);
+}
+.frame-696063 {
+  position: absolute;
+  left: 0.2rem;
+  bottom: 1rem;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.huge-iconinterfaceoutlinelocation-0264 {
+  margin: 0.1rem 0.7rem 0.1rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 0.9rem;
+  height: 1rem;
+  box-sizing: border-box;
+}
+.vector-65 {
+  width: 0.9rem;
+  height: 1rem;
+}
+.title-66 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--graygrey-4, #84848E);
+}
+.frame-3377067 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-1478568 {
+  border-radius: 0.5rem;
+  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/iKuPNofJkWBDmhDojVDQi/assets/images/8386ee14ab3d59e0df6327248ccf8154697304ab?Expires=1711552011&KeyName=fn12-cdn&Signature=HUK1yN0Ti_nLinDUptU4lHf3uFU=') 50% / cover no-repeat;
+  margin-bottom: 1rem;
+  width: 16.3rem;
+  height: 12.8rem;
+}
+.frame-3371569 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-696070 {
+  margin-bottom: 0.4rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.ellipse-42271 {
+  border-radius: 0.3rem;
+  background: var(--ffc-000, #FFC000);
+  margin: 0.3rem 0.5rem 0.3rem 0;
+  width: 0.6rem;
+  height: 0.6rem;
+}
+.title-72 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--graygrey-4, #84848E);
+}
+.high-purity-expressions-of-interest-sought-for-gold-mine-and-infrastructure-in-queensland-73 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-medium-font-weight, 500);
+  font-size: var(--px-text-lg-medium-font-size, 1.1rem);
+  line-height: var(--px-text-lg-medium-line-height, 1.556);
+  color: var(--graygrey-6, #3C3C4C);
+}
+.frame-696074 {
+  position: absolute;
+  left: 0.2rem;
+  bottom: 1rem;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.huge-iconinterfaceoutlinelocation-0275 {
+  margin: 0.1rem 0.7rem 0.1rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 0.9rem;
+  height: 1rem;
+  box-sizing: border-box;
+}
+.vector-76 {
+  width: 0.9rem;
+  height: 1rem;
+}
+.title-77 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--graygrey-4, #84848E);
+}
+.frame-3376778 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-1478579 {
+  border-radius: 0.5rem;
+  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/iKuPNofJkWBDmhDojVDQi/assets/images/9175139685f9f14babed3b49f949e7932d5488cc?Expires=1711552011&KeyName=fn12-cdn&Signature=ycsDPT-1x0sl7fHfBEzKrXH_h5o=') 50% / cover no-repeat;
+  margin-bottom: 1rem;
+  width: 16.3rem;
+  height: 12.8rem;
+}
+.frame-3371580 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-696081 {
+  margin-bottom: 0.4rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.ellipse-42282 {
+  border-radius: 0.3rem;
+  background: #FF5C00;
+  margin: 0.3rem 0.5rem 0.3rem 0;
+  width: 0.6rem;
+  height: 0.6rem;
+}
+.title-83 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--graygrey-4, #84848E);
+}
+.high-purity-expressions-of-interest-sought-for-gold-mine-and-infrastructure-in-queensland-84 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-medium-font-weight, 500);
+  font-size: var(--px-text-lg-medium-font-size, 1.1rem);
+  line-height: var(--px-text-lg-medium-line-height, 1.556);
+  color: var(--graygrey-6, #3C3C4C);
+}
+.frame-696085 {
+  position: absolute;
+  left: 0.2rem;
+  bottom: 1rem;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.huge-iconinterfaceoutlinelocation-0286 {
+  margin: 0.1rem 0.7rem 0.1rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 0.9rem;
+  height: 1rem;
+  box-sizing: border-box;
+}
+.vector-87 {
+  width: 0.9rem;
+  height: 1rem;
+}
+.title-88 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--graygrey-4, #84848E);
+}
+.frame-3376889 {
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-1478590 {
+  border-radius: 0.5rem;
+  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/iKuPNofJkWBDmhDojVDQi/assets/images/57d46ed57f6a5d9602e0ee294bd81bf43b159f7e?Expires=1711552011&KeyName=fn12-cdn&Signature=xVpR4x2bG8NaarWv36mvFzTT3a8=') 50% / cover no-repeat;
+  margin-bottom: 1rem;
+  width: 16.3rem;
+  height: 12.8rem;
+}
+.frame-3371591 {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-696092 {
+  margin-bottom: 0.4rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.ellipse-42293 {
+  border-radius: 0.3rem;
+  background: var(--3-c-3-c-4-c, #3C3C4C);
+  margin: 0.3rem 0.5rem 0.3rem 0;
+  width: 0.6rem;
+  height: 0.6rem;
+}
+.title-94 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--graygrey-4, #84848E);
+}
+.koz-high-grade-vivien-gold-project-95 {
+  margin-bottom: 1.3rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-medium-font-weight, 500);
+  font-size: var(--px-text-lg-medium-font-size, 1.1rem);
+  line-height: var(--px-text-lg-medium-line-height, 1.556);
+  color: var(--graygrey-6, #3C3C4C);
+}
+.frame-696096 {
+  margin: 0 0.2rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.huge-iconinterfaceoutlinelocation-0297 {
+  margin: 0.1rem 0.7rem 0.1rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 0.9rem;
+  height: 1rem;
+  box-sizing: border-box;
+}
+.vector-98 {
+  width: 0.9rem;
+  height: 1rem;
+}
+.title-99 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--graygrey-4, #84848E);
+}
+.button {
+  border-radius: 0.5rem;
+  background: var(--3-c-3-c-4-c, #3C3C4C);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.8rem 0;
+  width: 11.7rem;
+  box-sizing: border-box;
+}
+.title-100 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-medium-font-weight, 500);
+  font-size: var(--px-text-lg-medium-font-size, 1.1rem);
+  line-height: var(--px-text-lg-medium-line-height, 1.556);
+  color: var(--faf-3-e-5, #FAF3E5);
+}
+.button-101 {
+  border-radius: 0.5rem;
+  background: var(--gray-shades-10, #F5F5F6);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.8rem 0;
+  width: 12.2rem;
+  box-sizing: border-box;
+}
+.title-102 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-medium-font-weight, 500);
+  font-size: var(--px-text-lg-medium-font-size, 1.1rem);
+  line-height: var(--px-text-lg-medium-line-height, 1.556);
+  color: var(--3-c-3-c-4-c, #3C3C4C);
+}
+.button-103 {
+  box-shadow: var(--shadows-extra-large, 0rem 1.5rem 2rem 0rem rgba(0, 0, 0, 0.04)), var(--shadows-extra-large, 0rem 1rem 1.5rem 0rem rgba(0, 0, 0, 0.04)), var(--shadows-extra-large, 0rem 0.3rem 0.5rem 0rem rgba(0, 0, 0, 0.04)), var(--shadows-extra-large, 0rem 0rem 0.1rem 0rem rgba(0, 0, 0, 0.04));
+  border-radius: 0.5rem;
+  background: var(--3-c-3-c-4-c, #3C3C4C);
+  position: absolute;
+  left: 50%;
+  top: 64.1rem;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: row;
+  padding: 0.8rem 0;
+  width: 13.6rem;
+  box-sizing: border-box;
+}
+.title-104 {
+  margin-right: 0.5rem;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-medium-font-weight, 500);
+  font-size: var(--px-text-lg-medium-font-size, 1.1rem);
+  line-height: var(--px-text-lg-medium-line-height, 1.556);
+  color: var(--faf-3-e-5, #FAF3E5);
+}
+.maps-1 {
+  margin: 0.1rem 0;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.frame-14785108 {
+  border-radius: 0.5rem;
+  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/iKuPNofJkWBDmhDojVDQi/assets/images/bab80391884fd03217d87ac5aadf1bd1e90cb324?Expires=1711552011&KeyName=fn12-cdn&Signature=F7mXry-PJNKNNVBoYPSv6a_JR34=') 50% / cover no-repeat, url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/iKuPNofJkWBDmhDojVDQi/assets/images/c6d2682abe330deffddd301e51b995e3161c4dbf?Expires=1711552011&KeyName=fn12-cdn&Signature=vvLsfKLR4b78o5rgRVBDFpziii0=') 50% / cover no-repeat;
+  position: relative;
+  margin-right: 3.6rem;
+  width: 31.3rem;
+  height: 25rem;
+}
+.frame-14785109 {
+  border-radius: 0.5rem;
+  background: var(--primary-shades-light, #FCF7F3);
+  position: absolute;
+  left: 10.1rem;
+  top: 160.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-right: 0rem;
+  width: 12.5rem;
+  height: 12.5rem;
+  box-sizing: border-box;
+}
+.group-1 {
+  width: 8.6rem;
+  height: 7.7rem;
+}
+.register-today-for-free-unrestricted-access-to-all-project-listings-market-metrics-and-transaction-valuations-projects-can-be-posted-on-mines-x-for-a-5-success-fee-or-a-negotiated-upfront-posting-fee-register-today-for-free-unrestricted-access {
+  margin-left: 2.1rem;
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-regular-font-weight, 400);
+  font-size: var(--px-text-lg-regular-font-size, 1.1rem);
+  line-height: var(--px-text-lg-regular-line-height, 1.556);
+  color: var(--graygrey-4, #84848E);
+}
+.frame-14785114 {
+  border-radius: 0.5rem;
+  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/iKuPNofJkWBDmhDojVDQi/assets/images/7ad9494bbeb5550446cd09b4e28d47347a02ed78?Expires=1711552011&KeyName=fn12-cdn&Signature=suxaGDFRddK-UUimd3lEb80rVlQ=') 50% / cover no-repeat;
+  position: relative;
+  width: 31.3rem;
+  height: 25rem;
+}
+.class-aptent-taciti-sociosqu-ad-litora-torquent-per-conubia-nostra-per-inceptos-himenaeos-nullam-bibendum-pharetra-augue-at-tempus-ex-tincidunt-vel-aenean-rutrum-auctor-leo-at-suscipit {
+  margin-bottom: 1.8rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-regular-font-weight, 400);
+  font-size: var(--px-text-lg-regular-font-size, 1.1rem);
+  line-height: var(--px-text-lg-regular-line-height, 1.556);
+  color: var(--graygrey-3, #ABABB2);
+}
+.manuel-gri {
+  position: relative;
+  margin: 0.6rem 0 2.3rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-medium-font-weight, 500);
+  font-size: var(--px-text-lg-medium-font-size, 1.1rem);
+  line-height: var(--px-text-lg-medium-line-height, 1.556);
+  color: var(--graygrey-6, #3C3C4C);
+}
+.ceo {
+  position: absolute;
+  right: 3.8rem;
+  bottom: 0.7rem;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-regular-font-weight, 400);
+  font-size: var(--px-text-lg-regular-font-size, 1.1rem);
+  line-height: var(--px-text-lg-regular-line-height, 1.556);
+  color: var(--graygrey-3, #ABABB2);
+}
+.rectangle-420 {
+  border-radius: 0.3rem;
+  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/iKuPNofJkWBDmhDojVDQi/assets/images/51bd884e477c905b2695ebdf88f0c2d2d0bdb7db?Expires=1711552011&KeyName=fn12-cdn&Signature=mkaHdiVtDzvmkwxnuAA6USOczEE=') 50% / cover no-repeat;
+  margin-right: 1.3rem;
+  width: 4.6rem;
+  height: 4.6rem;
+}
+.frame-33727 {
+  border-radius: 0.5rem;
+  background: var(--primary-shades-light, #FCF7F3);
+  position: absolute;
+  right: 10.1rem;
+  bottom: 111.8rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-right: 0rem;
+  width: 12.5rem;
+  height: 12.5rem;
+  box-sizing: border-box;
+}
+.group-1115 {
+  width: 8.6rem;
+  height: 7.8rem;
+}
+.frame-33728 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  column-gap: 0.3rem;
+  width: 4.8rem;
+  box-sizing: border-box;
+}
+.rectangle-421 {
+  border-radius: 1.5rem;
+  background: var(--primaryprimary-2, #F1D7C6);
+  width: 0.4rem;
+  height: 0.4rem;
+}
+.rectangle-421120 {
+  border-radius: 1.5rem;
+  background: var(--primaryprimary-6, #C55A11);
+  width: 2.5rem;
+  height: 0.4rem;
+}
+.rectangle-421121 {
+  border-radius: 1.5rem;
+  background: var(--primaryprimary-2, #F1D7C6);
+  width: 0.4rem;
+  height: 0.4rem;
+}
+.rectangle-421122 {
+  border-radius: 1.5rem;
+  background: var(--primaryprimary-2, #F1D7C6);
+  width: 0.4rem;
+  height: 0.4rem;
+}
+.frame-33773 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.rectangle-2 {
+  background: var(--primaryprimary-6, #C55A11);
+  margin-right: 1.5rem;
+  width: 0.4rem;
+  height: 9.3rem;
+}
+.frame-33772 {
+  margin: 1.1rem 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.projects-around-the-world {
+  margin-bottom: 0.6rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-regular-font-weight, 400);
+  font-size: var(--px-text-lg-regular-font-size, 1.1rem);
+  line-height: var(--px-text-lg-regular-line-height, 1.556);
+  color: var(--gray-shades-70, #8A8A94);
+}
+.we-explore-develop-produce-various-minerals {
+  overflow-wrap: break-word;
+  font-family: var(--px-display-sm-semibold-font-family, 'Poppins');
+  font-weight: var(--px-display-sm-semibold-font-weight, 600);
+  font-size: var(--px-display-sm-semibold-font-size, 1.9rem);
+  line-height: var(--px-display-sm-semibold-line-height, 1.267);
+  color: var(--3-c-3-c-4-c, #3C3C4C);
+}
+.frame-33773123 {
+  margin: 0 0.1rem 1.3rem 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.rectangle-2124 {
+  background: var(--primaryprimary-6, #C55A11);
+  margin-right: 1.5rem;
+  width: 0.4rem;
+  height: 9.3rem;
+}
+.frame-33772125 {
+  margin: 1.1rem 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.projects-126 {
+  margin-bottom: 0.6rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-regular-font-weight, 400);
+  font-size: var(--px-text-lg-regular-font-size, 1.1rem);
+  line-height: var(--px-text-lg-regular-line-height, 1.556);
+  color: var(--gray-shades-70, #8A8A94);
+}
+.make-mining-safer-and-more-productive {
+  overflow-wrap: break-word;
+  font-family: var(--px-display-sm-semibold-font-family, 'Poppins');
+  font-weight: var(--px-display-sm-semibold-font-weight, 600);
+  font-size: var(--px-display-sm-semibold-font-size, 1.9rem);
+  line-height: var(--px-display-sm-semibold-line-height, 1.267);
+  color: var(--3-c-3-c-4-c, #3C3C4C);
+}
+.frame-33745 {
+  background: #F5F5F6;
+  position: relative;
+  margin-bottom: 13.9rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 6.3rem 0;
+  width: 90rem;
+  box-sizing: border-box;
+}
+.frame-33743 {
+  margin: 0 53.1rem 2.4rem 0;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.discover-127 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-regular-font-weight, 400);
+  font-size: var(--px-text-lg-regular-font-size, 1.1rem);
+  line-height: var(--px-text-lg-regular-line-height, 1.556);
+  color: var(--gray-shades-70, #8A8A94);
+}
+.how-we-can-help {
+  overflow-wrap: break-word;
+  font-family: var(--px-display-sm-semibold-font-family, 'Poppins');
+  font-weight: var(--px-display-sm-semibold-font-weight, 600);
+  font-size: var(--px-display-sm-semibold-font-size, 1.9rem);
+  line-height: var(--px-display-sm-semibold-line-height, 1.267);
+  color: var(--3-c-3-c-4-c, #3C3C4C);
+}
+.frame-33744 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 69.8rem;
+  box-sizing: border-box;
+}
+.frame-33737128 {
+  border-radius: 0.5rem;
+  border: 0.1rem solid var(--gray-shades-50, #B1B1B7);
+  background: var(--secondary-shades-white, #FFFFFF);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.9rem 0;
+  width: 22.3rem;
+  box-sizing: border-box;
+}
+.africa {
+  margin-bottom: 0.3rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-xl-semibold-font-family, 'Poppins');
+  font-weight: var(--px-text-xl-semibold-font-weight, 600);
+  font-size: var(--px-text-xl-semibold-font-size, 1.3rem);
+  line-height: var(--px-text-xl-semibold-line-height, 1.5);
+  color: var(--3-c-3-c-4-c, #3C3C4C);
+}
+.projects-129 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--gray-shades-70, #8A8A94);
+}
+.frame-33737130 {
+  border-radius: 0.5rem;
+  border: 0.1rem solid var(--gray-shades-50, #B1B1B7);
+  background: var(--secondary-shades-white, #FFFFFF);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.9rem 0;
+  width: 22.3rem;
+  box-sizing: border-box;
+}
+.asia {
+  margin-bottom: 0.3rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-xl-semibold-font-family, 'Poppins');
+  font-weight: var(--px-text-xl-semibold-font-weight, 600);
+  font-size: var(--px-text-xl-semibold-font-size, 1.3rem);
+  line-height: var(--px-text-xl-semibold-line-height, 1.5);
+  color: var(--3-c-3-c-4-c, #3C3C4C);
+}
+.projects-131 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--gray-shades-70, #8A8A94);
+}
+.frame-33737132 {
+  border-radius: 0.5rem;
+  border: 0.1rem solid var(--gray-shades-50, #B1B1B7);
+  background: var(--secondary-shades-white, #FFFFFF);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.9rem 0;
+  width: 22.3rem;
+  box-sizing: border-box;
+}
+.europe {
+  margin-bottom: 0.3rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-xl-semibold-font-family, 'Poppins');
+  font-weight: var(--px-text-xl-semibold-font-weight, 600);
+  font-size: var(--px-text-xl-semibold-font-size, 1.3rem);
+  line-height: var(--px-text-xl-semibold-line-height, 1.5);
+  color: var(--3-c-3-c-4-c, #3C3C4C);
+}
+.projects-133 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--gray-shades-70, #8A8A94);
+}
+.frame-33737134 {
+  border-radius: 0.5rem;
+  border: 0.1rem solid var(--gray-shades-50, #B1B1B7);
+  background: var(--secondary-shades-white, #FFFFFF);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.9rem 0;
+  width: 22.3rem;
+  box-sizing: border-box;
+}
+.north-america {
+  margin-bottom: 0.3rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-xl-semibold-font-family, 'Poppins');
+  font-weight: var(--px-text-xl-semibold-font-weight, 600);
+  font-size: var(--px-text-xl-semibold-font-size, 1.3rem);
+  line-height: var(--px-text-xl-semibold-line-height, 1.5);
+  color: var(--3-c-3-c-4-c, #3C3C4C);
+}
+.projects-135 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--gray-shades-70, #8A8A94);
+}
+.frame-33737136 {
+  border-radius: 0.5rem;
+  border: 0.1rem solid var(--gray-shades-50, #B1B1B7);
+  background: var(--secondary-shades-white, #FFFFFF);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.9rem 0;
+  width: 22.3rem;
+  box-sizing: border-box;
+}
+.south-america {
+  margin-bottom: 0.3rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-xl-semibold-font-family, 'Poppins');
+  font-weight: var(--px-text-xl-semibold-font-weight, 600);
+  font-size: var(--px-text-xl-semibold-font-size, 1.3rem);
+  line-height: var(--px-text-xl-semibold-line-height, 1.5);
+  color: var(--3-c-3-c-4-c, #3C3C4C);
+}
+.projects-137 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--gray-shades-70, #8A8A94);
+}
+.frame-33737138 {
+  border-radius: 0.5rem;
+  border: 0.1rem solid var(--gray-shades-50, #B1B1B7);
+  background: var(--secondary-shades-white, #FFFFFF);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.9rem 0;
+  width: 22.3rem;
+  box-sizing: border-box;
+}
+.africa-139 {
+  margin-bottom: 0.3rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-xl-semibold-font-family, 'Poppins');
+  font-weight: var(--px-text-xl-semibold-font-weight, 600);
+  font-size: var(--px-text-xl-semibold-font-size, 1.3rem);
+  line-height: var(--px-text-xl-semibold-line-height, 1.5);
+  color: var(--3-c-3-c-4-c, #3C3C4C);
+}
+.projects-140 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--gray-shades-70, #8A8A94);
+}
+.frame-33750 {
+  background: #F5F5F6;
+  position: absolute;
+  left: 0rem;
+  right: 0rem;
+  bottom: 139.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 6.3rem 0;
+  box-sizing: border-box;
+}
+.frame-33749 {
+  margin-bottom: 2.4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 69.8rem;
+  box-sizing: border-box;
+}
+.frame-33748 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.discover-141 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-regular-font-weight, 400);
+  font-size: var(--px-text-lg-regular-font-size, 1.1rem);
+  line-height: var(--px-text-lg-regular-line-height, 1.556);
+  color: var(--gray-shades-70, #8A8A94);
+}
+.how-we-can-help-142 {
+  overflow-wrap: break-word;
+  font-family: var(--px-display-sm-semibold-font-family, 'Poppins');
+  font-weight: var(--px-display-sm-semibold-font-weight, 600);
+  font-size: var(--px-display-sm-semibold-font-size, 1.9rem);
+  line-height: var(--px-display-sm-semibold-line-height, 1.267);
+  color: var(--3-c-3-c-4-c, #3C3C4C);
+}
+.frame-33747 {
+  margin-top: 1.1rem;
+  display: flex;
+  flex-direction: row;
+  width: 18.9rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-14727 {
+  border-radius: 0.5rem;
+  background: var(--3-c-3-c-4-c, #3C3C4C);
+  margin-right: 0.8rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.8rem 0rem 0.8rem 0;
+  width: 9.1rem;
+  box-sizing: border-box;
+}
+.buying {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-md-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-md-medium-font-weight, 500);
+  font-size: var(--px-text-md-medium-font-size, 1rem);
+  line-height: var(--px-text-md-medium-line-height, 1.5);
+  color: var(--primaryprimary-1, #F9EFE7);
+}
+.frame-14727143 {
+  border-radius: 0.5rem;
+  border: 0.1rem solid var(--gray-shades-50, #B1B1B7);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.7rem 0rem 0.7rem 0;
+  width: 9.1rem;
+  box-sizing: border-box;
+}
+.selling {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-md-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-md-medium-font-weight, 500);
+  font-size: var(--px-text-md-medium-font-size, 1rem);
+  line-height: var(--px-text-md-medium-line-height, 1.5);
+  color: var(--3-c-3-c-4-c, #3C3C4C);
+}
+.frame-33746 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 1.5rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-33737144 {
+  border-radius: 0.5rem;
+  border: 0.1rem solid var(--gray-shades-50, #B1B1B7);
+  background: var(--secondary-shades-white, #FFFFFF);
+  display: flex;
+  flex-direction: column;
+  padding: 1.4rem 0 1.4rem 1.4rem;
+  width: 22.3rem;
+  box-sizing: border-box;
+}
+.fi-6919592 {
+  margin-bottom: 1.6rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  width: 4.1rem;
+  height: 4.1rem;
+  box-sizing: border-box;
+}
+.group {
+  width: 4.1rem;
+  height: 4.1rem;
+}
+.use-our-expertise-to-find-the-right-solutions {
+  margin-bottom: 0.8rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-xl-semibold-font-family, 'Poppins');
+  font-weight: var(--px-text-xl-semibold-font-weight, 600);
+  font-size: var(--px-text-xl-semibold-font-size, 1.3rem);
+  line-height: var(--px-text-xl-semibold-line-height, 1.5);
+  color: var(--3-c-3-c-4-c, #3C3C4C);
+}
+.this-could-include-tips-on-budgeting-risk-management-and-project-finance-the-content-can-elaborate-on-our-website {
+  margin-bottom: 2.4rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--gray-shades-70, #8A8A94);
+}
+.frame-33742 {
+  border-bottom: 0.1rem solid var(--3-c-3-c-4-c, #3C3C4C);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  padding-right: 0rem;
+  box-sizing: border-box;
+}
+.contact-our-team {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--3-c-3-c-4-c, #3C3C4C);
+}
+.frame-33737151 {
+  border-radius: 0.5rem;
+  border: 0.1rem solid var(--gray-shades-50, #B1B1B7);
+  background: var(--secondary-shades-white, #FFFFFF);
+  display: flex;
+  flex-direction: column;
+  padding: 1.4rem 0 1.4rem 1.4rem;
+  width: 22.3rem;
+  box-sizing: border-box;
+}
+.fi-6348099 {
+  margin-bottom: 1.6rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  width: 4.1rem;
+  height: 4.1rem;
+  box-sizing: border-box;
+}
+.group-152 {
+  width: 4.1rem;
+  height: 4.1rem;
+}
+.sustainable-practices-in-mining {
+  margin-bottom: 0.8rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-xl-semibold-font-family, 'Poppins');
+  font-weight: var(--px-text-xl-semibold-font-weight, 600);
+  font-size: var(--px-text-xl-semibold-font-size, 1.3rem);
+  line-height: var(--px-text-xl-semibold-line-height, 1.5);
+  color: var(--3-c-3-c-4-c, #3C3C4C);
+}
+.this-could-include-tips-on-budgeting-risk-management-and-project-finance-the-content-can-elaborate-on-our-website-162 {
+  margin-bottom: 2.4rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--gray-shades-70, #8A8A94);
+}
+.frame-33742163 {
+  border-bottom: 0.1rem solid var(--3-c-3-c-4-c, #3C3C4C);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  padding-right: 0rem;
+  box-sizing: border-box;
+}
+.contact-our-team-164 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--3-c-3-c-4-c, #3C3C4C);
+}
+.frame-33737165 {
+  border-radius: 0.5rem;
+  border: 0.1rem solid var(--gray-shades-50, #B1B1B7);
+  background: var(--secondary-shades-white, #FFFFFF);
+  display: flex;
+  flex-direction: column;
+  padding: 1.4rem 0 1.4rem 1.4rem;
+  width: 22.3rem;
+  box-sizing: border-box;
+}
+.fi-3500902 {
+  margin-bottom: 1.6rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  width: 4.1rem;
+  height: 4.1rem;
+  box-sizing: border-box;
+}
+.vector-166 {
+  width: 4.1rem;
+  height: 4.1rem;
+}
+.navigating-the-challenges-in-mining {
+  margin-bottom: 0.8rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-xl-semibold-font-family, 'Poppins');
+  font-weight: var(--px-text-xl-semibold-font-weight, 600);
+  font-size: var(--px-text-xl-semibold-font-size, 1.3rem);
+  line-height: var(--px-text-xl-semibold-line-height, 1.5);
+  color: var(--3-c-3-c-4-c, #3C3C4C);
+}
+.this-could-include-tips-on-budgeting-risk-management-and-project-finance-the-content-can-elaborate-on-our-website-167 {
+  margin-bottom: 2.4rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--gray-shades-70, #8A8A94);
+}
+.frame-33742168 {
+  border-bottom: 0.1rem solid var(--3-c-3-c-4-c, #3C3C4C);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  padding-right: 0rem;
+  box-sizing: border-box;
+}
+.contact-our-team-169 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--3-c-3-c-4-c, #3C3C4C);
+}
+.frame-33773170 {
+  margin: 0 40.3rem 1.5rem 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.rectangle-2171 {
+  background: var(--primaryprimary-6, #C55A11);
+  margin-right: 1.5rem;
+  width: 0.4rem;
+  height: 9.3rem;
+}
+.frame-33772172 {
+  margin: 1.1rem 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.testimonials {
+  margin-bottom: 0.6rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-regular-font-weight, 400);
+  font-size: var(--px-text-lg-regular-font-size, 1.1rem);
+  line-height: var(--px-text-lg-regular-line-height, 1.556);
+  color: var(--gray-shades-70, #8A8A94);
+}
+.mining-industry-testimonials-that-speak-volumes {
+  overflow-wrap: break-word;
+  font-family: var(--px-display-sm-semibold-font-family, 'Poppins');
+  font-weight: var(--px-display-sm-semibold-font-weight, 600);
+  font-size: var(--px-display-sm-semibold-font-size, 1.9rem);
+  line-height: var(--px-display-sm-semibold-line-height, 1.267);
+  color: var(--3-c-3-c-4-c, #3C3C4C);
+}
+.frame-33720 {
+  margin-bottom: 7.5rem;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+  width: 87.6rem;
+  box-sizing: border-box;
+}
+.frame-33717 {
+  margin: 0 8.6rem 2.9rem 8.6rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.our-insightful-blog {
+  margin: 0 0rem 0.9rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--px-display-sm-semibold-font-family, 'Poppins');
+  font-weight: var(--px-display-sm-semibold-font-weight, 600);
+  font-size: var(--px-display-sm-semibold-font-size, 1.9rem);
+  line-height: var(--px-display-sm-semibold-line-height, 1.267);
+  color: var(--3-c-3-c-4-c, #3C3C4C);
+}
+.mines-x-com-is-an-online-platform-connecting-buyers-and-sellers-of-mining-projects-worldwide {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-regular-font-weight, 400);
+  font-size: var(--px-text-lg-regular-font-size, 1.1rem);
+  line-height: var(--px-text-lg-regular-line-height, 1.556);
+  color: var(--graygrey-4, #84848E);
+}
+.frame-33729 {
+  position: relative;
+  margin-bottom: 5.1rem;
+  display: flex;
+  flex-direction: row;
+  width: 87.6rem;
+  box-sizing: border-box;
+}
+.frame-14786 {
+  margin-right: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.frame-14785173 {
+  border-radius: 0.5rem;
+  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/iKuPNofJkWBDmhDojVDQi/assets/images/c8c33c5df021f560916c7c38e22d26cb6a6eace9?Expires=1711552011&KeyName=fn12-cdn&Signature=-WTUboAHH-WUuqbT8bJvDGeG3n4=') 50% / cover no-repeat, url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/iKuPNofJkWBDmhDojVDQi/assets/images/c6d2682abe330deffddd301e51b995e3161c4dbf?Expires=1711552011&KeyName=fn12-cdn&Signature=vvLsfKLR4b78o5rgRVBDFpziii0=') 50% / cover no-repeat;
+  margin-bottom: 1.5rem;
+  width: 28.2rem;
+  height: 12.5rem;
+}
+.frame-33715174 {
+  margin-right: 0rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sale-of-mining-and-from-ore-to-brilliance-minings-transformative-pathways-unveiled {
+  margin: 0 0.4rem 1.1rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-medium-font-weight, 500);
+  font-size: var(--px-text-lg-medium-font-size, 1.1rem);
+  line-height: var(--px-text-lg-medium-line-height, 1.556);
+  color: var(--graygrey-6, #3C3C4C);
+}
+.opportunity-to-acquire-an-established-gold-mine-with-significant-infrastructure-unrestricted-access-to-all-project-listings-market-metrics-and-transaction-valuations {
+  margin: 0 0.2rem 0.6rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--graygrey-4, #84848E);
+}
+.title-175 {
+  margin: 0.1rem 0.6rem 0.1rem 0;
+  display: inline-block;
+  width: 22.9rem;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-xs-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-xs-regular-font-weight, 400);
+  font-size: var(--px-text-xs-regular-font-size, 0.8rem);
+  line-height: var(--px-text-xs-regular-line-height, 1.5);
+  color: var(--graygrey-4, #84848E);
+}
+.button-176 {
+  border-radius: 0.3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.title-177 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--primaryprimary-6, #C55A11);
+}
+.frame-14786178 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.frame-14785179 {
+  border-radius: 0.5rem;
+  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/iKuPNofJkWBDmhDojVDQi/assets/images/79d91e4210903b11007a13c4b238a2b3dc96172a?Expires=1711552011&KeyName=fn12-cdn&Signature=WusIcWgCtjvLqqcwMsrZGUMYHcE=');
+  margin-bottom: 1.5rem;
+  width: 28.2rem;
+  height: 12.5rem;
+}
+.frame-33715180 {
+  position: relative;
+  margin-right: 0rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.highly-prospective-base-metals-project-located-in-the-underexplored-mc-arthur-basin-northern-territory {
+  position: relative;
+  margin: 0 0.5rem 3.8rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-medium-font-weight, 500);
+  font-size: var(--px-text-lg-medium-font-size, 1.1rem);
+  line-height: var(--px-text-lg-medium-line-height, 1.556);
+  color: var(--graygrey-6, #3C3C4C);
+}
+.opportunity-to-acquire-an-established-gold-mine-with-significant-infrastructure-unrestricted-access-to-all-project-listings-market-metrics-and-transaction-valuations-181 {
+  position: absolute;
+  left: 0rem;
+  bottom: 1.9rem;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--graygrey-4, #84848E);
+}
+.frame-33714 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 28.2rem;
+  box-sizing: border-box;
+}
+.title-182 {
+  margin: 0.1rem 0.6rem 0.1rem 0;
+  display: inline-block;
+  width: 22.9rem;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-xs-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-xs-regular-font-weight, 400);
+  font-size: var(--px-text-xs-regular-font-size, 0.8rem);
+  line-height: var(--px-text-xs-regular-line-height, 1.5);
+  color: var(--graygrey-4, #84848E);
+}
+.button-183 {
+  border-radius: 0.3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.title-184 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--primaryprimary-6, #C55A11);
+}
+.frame-14786185 {
+  position: absolute;
+  right: 0rem;
+  bottom: 0rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.frame-14785186 {
+  border-radius: 0.5rem;
+  background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/iKuPNofJkWBDmhDojVDQi/assets/images/3b42b84da40d61c9ec5a4bcf7ef505cae4f80fb6?Expires=1711552011&KeyName=fn12-cdn&Signature=giRiyj5qmVrxuwjTcEEGuOScQyY=') 50% / cover no-repeat;
+  margin-bottom: 1.5rem;
+  width: 28.2rem;
+  height: 12.5rem;
+}
+.frame-33715187 {
+  margin-right: 0rem;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.significant-base-metals-opportunity-in-tier-1-jurisdiction-of-western-australia {
+  margin-bottom: 1.1rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-medium-font-weight, 500);
+  font-size: var(--px-text-lg-medium-font-size, 1.1rem);
+  line-height: var(--px-text-lg-medium-line-height, 1.556);
+  color: var(--graygrey-6, #3C3C4C);
+}
+.opportunity-to-acquire-an-established-gold-mine-with-significant-infrastructure-unrestricted-access-to-all-project-listings-market-metrics-and-transaction-valuations-188 {
+  margin: 0 0.2rem 0.6rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--graygrey-4, #84848E);
+}
+.frame-33714189 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 28.2rem;
+  box-sizing: border-box;
+}
+.title-190 {
+  margin: 0.1rem 0.6rem 0.1rem 0;
+  display: inline-block;
+  width: 22.9rem;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-xs-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-xs-regular-font-weight, 400);
+  font-size: var(--px-text-xs-regular-font-size, 0.8rem);
+  line-height: var(--px-text-xs-regular-line-height, 1.5);
+  color: var(--graygrey-4, #84848E);
+}
+.button-191 {
+  border-radius: 0.3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.title-192 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--primaryprimary-6, #C55A11);
+}
+.frame-33719 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 69.8rem;
+  box-sizing: border-box;
+}
+.button-193 {
+  border-radius: 0.5rem;
+  background: var(--gray-shades-10, #F5F5F6);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.8rem 0;
+  width: 11.3rem;
+  box-sizing: border-box;
+}
+.title-194 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-lg-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-lg-medium-font-weight, 500);
+  font-size: var(--px-text-lg-medium-font-size, 1.1rem);
+  line-height: var(--px-text-lg-medium-line-height, 1.556);
+  color: var(--3-c-3-c-4-c, #3C3C4C);
+}
+.group-5195 {
+  margin: 1.2rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 10.4rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.vector-190196 {
+  width: 3.2rem;
+  height: 0.8rem;
+}
+.vector-190197 {
+  width: 3.2rem;
+  height: 0.8rem;
+}
+.frame-33724 {
+  position: relative;
+  margin: 0 0 4.7rem 0.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 4.6rem 0;
+  width: 90.1rem;
+  box-sizing: border-box;
+}
+.rectangle-418 {
+
+  position: absolute;
+  left: 0rem;
+  top: 2.8rem;
+  width: 56.8rem;
+  background-color: white;
+  height: 8.8rem;
+}
+.rectangle-418198 {
+  position: absolute;
+  top: 2.8rem;
+  right: 0rem;
+  width: 41.7rem;
+  height: 8.8rem;
+}
+.frame-14825 {
+  position: relative;
+  margin: 0.3rem 0 0.1rem 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.need-assistance {
+  margin-bottom: 0.4rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-display-xs-regular-font-family, 'Poppins');
+  font-weight: var(--px-display-xs-regular-font-weight, 400);
+  font-size: var(--px-display-xs-regular-font-size, 1.5rem);
+  line-height: var(--px-display-xs-regular-line-height, 1.333);
+  color: var(--graygrey-4, #84848E);
+}
+.well-help-you-find-your-right-project {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 1.9rem;
+  line-height: 1.333;
+  color: var(--primaryprimary-6, #C55A11);
+}
+.well-help-you-find-your-right-project-sub3 {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 1.9rem;
+  line-height: 1.333;
+}
+.frame-14827 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 21.3rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.takes-less-than-1-minute {
+  margin-bottom: 0.4rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-md-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-md-regular-font-weight, 400);
+  font-size: var(--px-text-md-regular-font-size, 1rem);
+  line-height: var(--px-text-md-regular-line-height, 1.5);
+  color: var(--graygrey-4, #84848E);
+}
+.frame-14727199 {
+  border-radius: 0.3rem;
+  background: var(--primaryprimary-6, #C55A11);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.8rem 0rem 0.8rem 0;
+  width: 21.3rem;
+  box-sizing: border-box;
+}
+.submit-your-requirement {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-xl-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-xl-medium-font-weight, 500);
+  font-size: var(--px-text-xl-medium-font-size, 1.3rem);
+  line-height: var(--px-text-xl-medium-line-height, 1.5);
+  color: var(--primaryprimary-1, #F9EFE7);
+}
+.vector-200 {
+  position: absolute;
+  right: 30.6rem;
+  bottom: 0rem;
+  width: 16rem;
+  height: 14.4rem;
+}
+.footer {
+  background: var(--graygrey-9, #22222B);
+  display: flex;
+  flex-direction: row;
+  padding: 3rem 0;
+  width: 90rem;
+  box-sizing: border-box;
+}
+.section {
+  margin-right: 7.1rem;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.navigation {
+  opacity: 0.4;
+  margin-bottom: 1.1rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-xs-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-xs-regular-font-weight, 400);
+  font-size: var(--px-text-xs-regular-font-size, 0.8rem);
+  line-height: var(--px-text-xs-regular-line-height, 1.5);
+  color: var(--secondary-shades-white, #FFFFFF);
+}
+.group-201 {
+  margin-bottom: 1.1rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.list {
+  margin-right: 5.2rem;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.about-us {
+  margin-bottom: 0.6rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--secondary-shades-white, #FFFFFF);
+}
+.careers {
+  margin-bottom: 0.6rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--secondary-shades-white, #FFFFFF);
+}
+.for-partners {
+  margin-bottom: 0.6rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--secondary-shades-white, #FFFFFF);
+}
+.payment {
+  margin-bottom: 0.6rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--secondary-shades-white, #FFFFFF);
+}
+.contact-us {
+  margin: 0 0.4rem 0.6rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--secondary-shades-white, #FFFFFF);
+}
+.news {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--secondary-shades-white, #FFFFFF);
+}
+.list-202 {
+  margin: 0 5.2rem 3.8rem 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.brand-assets {
+  margin-bottom: 0.6rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--secondary-shades-white, #FFFFFF);
+}
+.newsletters {
+  margin-bottom: 0.6rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--secondary-shades-white, #FFFFFF);
+}
+.company-profile {
+  margin-bottom: 0.6rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--secondary-shades-white, #FFFFFF);
+}
+.client-endorsement {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--secondary-shades-white, #FFFFFF);
+}
+.list-203 {
+  margin-bottom: 5.6rem;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.buy {
+  margin-bottom: 0.6rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--secondary-shades-white, #FFFFFF);
+}
+.sell {
+  margin-bottom: 0.6rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--secondary-shades-white, #FFFFFF);
+}
+.enquiry {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--secondary-shades-white, #FFFFFF);
+}
+.group-204 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 30.9rem;
+  box-sizing: border-box;
+}
+.layer-1 {
+  width: 11.3rem;
+  height: 5.1rem;
+}
+.list-213 {
+  margin: 0.2rem 0 0.9rem 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.copyright {
+  opacity: 0.4;
+  margin-bottom: 0.3rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-xs-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-xs-regular-font-weight, 400);
+  font-size: var(--px-text-xs-regular-font-size, 0.8rem);
+  line-height: var(--px-text-xs-regular-line-height, 1.5);
+  color: var(--secondary-shades-white, #FFFFFF);
+}
+.privacy {
+  opacity: 0.4;
+  margin-bottom: 0.3rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-xs-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-xs-regular-font-weight, 400);
+  font-size: var(--px-text-xs-regular-font-size, 0.8rem);
+  line-height: var(--px-text-xs-regular-line-height, 1.5);
+  color: var(--secondary-shades-white, #FFFFFF);
+}
+.all-rights-reserved {
+  opacity: 0.4;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-xs-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-xs-regular-font-weight, 400);
+  font-size: var(--px-text-xs-regular-font-size, 0.8rem);
+  line-height: var(--px-text-xs-regular-line-height, 1.5);
+  color: var(--secondary-shades-white, #FFFFFF);
+}
+.frame-249 {
+  margin-bottom: 1.2rem;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.section-214 {
+  margin-bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.contact-us-215 {
+  opacity: 0.4;
+  margin-bottom: 1.1rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-xs-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-xs-regular-font-weight, 400);
+  font-size: var(--px-text-xs-regular-font-size, 0.8rem);
+  line-height: var(--px-text-xs-regular-line-height, 1.5);
+  color: var(--secondary-shades-white, #FFFFFF);
+}
+.group-216 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 25.4rem;
+  box-sizing: border-box;
+}
+.list-217 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.phn-num {
+  margin-bottom: 0.3rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--secondary-shades-white, #FFFFFF);
+}
+.phn-num-2 {
+  margin-right: 0.3rem;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--secondary-shades-white, #FFFFFF);
+}
+.generalenquiryminex-com {
+  margin-bottom: 1.6rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--secondary-shades-white, #FFFFFF);
+}
+.section-218 {
+  margin-bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.location {
+  opacity: 0.4;
+  margin-bottom: 1.1rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-xs-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-xs-regular-font-weight, 400);
+  font-size: var(--px-text-xs-regular-font-size, 0.8rem);
+  line-height: var(--px-text-xs-regular-line-height, 1.5);
+  color: var(--secondary-shades-white, #FFFFFF);
+}
+.westheimer-rd-santa-tamil-nadu-685486 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-regular-font-weight, 400);
+  font-size: var(--px-text-sm-regular-font-size, 0.9rem);
+  line-height: var(--px-text-sm-regular-line-height, 1.429);
+  color: var(--secondary-shades-white, #FFFFFF);
+}
+.group-219 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 31rem;
+  box-sizing: border-box;
+}
+.section-220 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.follow-us {
+  opacity: 0.4;
+  margin-bottom: 1.1rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-xs-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-xs-regular-font-weight, 400);
+  font-size: var(--px-text-xs-regular-font-size, 0.8rem);
+  line-height: var(--px-text-xs-regular-line-height, 1.5);
+  color: var(--secondary-shades-white, #FFFFFF);
+}
+.list-221 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 0.6rem;
+  width: 14.4rem;
+  box-sizing: border-box;
+}
+.item {
+  border-radius: 3.1rem;
+  border: 0.1rem solid var(--primaryprimary-5, #CF783C);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1rem;
+  width: 3.1rem;
+  height: 3.1rem;
+  box-sizing: border-box;
+}
+.vector-222 {
+  width: 1rem;
+  height: 1rem;
+}
+.item-223 {
+  border-radius: 3.1rem;
+  border: 0.1rem solid var(--primaryprimary-5, #CF783C);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1rem 0.8rem;
+  width: 3.1rem;
+  height: 3.1rem;
+  box-sizing: border-box;
+}
+.vector-224 {
+  width: 1.5rem;
+  height: 1rem;
+}
+.item-225 {
+  border-radius: 3.1rem;
+  border: 0.1rem solid var(--primaryprimary-5, #CF783C);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1rem;
+  width: 3.1rem;
+  height: 3.1rem;
+  box-sizing: border-box;
+}
+.vector-226 {
+  width: 1rem;
+  height: 1rem;
+}
+.item-227 {
+  border-radius: 3.1rem;
+  border: 0.1rem solid var(--primaryprimary-5, #CF783C);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1rem 0.8rem;
+  width: 3.1rem;
+  height: 3.1rem;
+  box-sizing: border-box;
+}
+.youtube {
+  width: 1.4rem;
+  height: 1rem;
+}
+.section-228 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.lets-chat {
+  opacity: 0.4;
+  margin-bottom: 1.1rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-xs-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-xs-regular-font-weight, 400);
+  font-size: var(--px-text-xs-regular-font-size, 0.8rem);
+  line-height: var(--px-text-xs-regular-line-height, 1.5);
+  color: var(--secondary-shades-white, #FFFFFF);
+}
+.list-229 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 0.6rem;
+  width: 10.6rem;
+  box-sizing: border-box;
+}
+.item-230 {
+  border-radius: 3.1rem;
+  border: 0.1rem solid var(--primaryprimary-5, #CF783C);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.9rem;
+  width: 3.1rem;
+  height: 3.1rem;
+  box-sizing: border-box;
+}
+.vector-231 {
+  width: 1.1rem;
+  height: 1.1rem;
+}
+.item-232 {
+  border-radius: 3.1rem;
+  border: 0.1rem solid var(--primaryprimary-5, #CF783C);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1.1rem 1rem;
+  width: 3.1rem;
+  height: 3.1rem;
+  box-sizing: border-box;
+}
+.telegram {
+  width: 1rem;
+  height: 0.8rem;
+}
+.item-233 {
+  border-radius: 3.1rem;
+  border: 0.1rem solid var(--primaryprimary-5, #CF783C);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.9rem;
+  width: 3.1rem;
+  height: 3.1rem;
+  box-sizing: border-box;
+}
+.whatsapp {
+  width: 1.1rem;
+  height: 1.1rem;
+}
+.frame-1 {
+  border-bottom: 0.1rem solid var(--gray-shades-100, #50505E);
+  background: var(--graygrey-9, #22222B);
+  position: relative;
+  margin-bottom: 9.3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0.5rem 0 0.4rem 0;
+  width: 90rem;
+  box-sizing: border-box;
+}
+.group-15 {
+  width: 8.9rem;
+  height: 3.4rem;
+}
+.frame-33734 {
+  margin: 0.4rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 36.3rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-14730 {
+  margin: 0.2rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 13rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-14801 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.buy-249 {
+  margin: 0 0.6rem 0.4rem 0.6rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: var(--primaryprimary-6, #C55A11);
+}
+.rectangle-1 {
+  border-radius: 1.4rem;
+  background: #FFC000;
+  width: 3.1rem;
+  height: 0.3rem;
+}
+.frame-14801250 {
+  margin: 0.3rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.sell-251 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-md-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-md-regular-font-weight, 400);
+  font-size: var(--px-text-md-regular-font-size, 1rem);
+  line-height: var(--px-text-md-regular-line-height, 1.5);
+  color: var(--gray-shades-50, #B1B1B7);
+}
+.help {
+  margin: 0.3rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-md-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-md-regular-font-weight, 400);
+  font-size: var(--px-text-md-regular-font-size, 1rem);
+  line-height: var(--px-text-md-regular-line-height, 1.5);
+  color: var(--gray-shades-50, #B1B1B7);
+}
+.frame-14727252 {
+  border-radius: 0.3rem;
+  background: var(--3-c-3-c-4-c, #3C3C4C);
+  margin-right: 1.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.6rem 1.2rem 0.6rem 1.1rem;
+  box-sizing: border-box;
+}
+.list-your-property {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--faf-3-e-5, #FAF3E5);
+}
+.frame-14727253 {
+  border-radius: 0.3rem;
+  background: var(--faf-3-e-5, #FAF3E5);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.6rem 1.2rem 0.6rem 1.1rem;
+  box-sizing: border-box;
+}
+.signup-or-login {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--3-c-3-c-4-c, #3C3C4C);
+}
+.frame-14727254 {
+  box-shadow: var(--shadows-extra-large, 0rem 1.5rem 2rem 0rem rgba(0, 0, 0, 0.04)), var(--shadows-extra-large, 0rem 1rem 1.5rem 0rem rgba(0, 0, 0, 0.04)), var(--shadows-extra-large, 0rem 0.3rem 0.5rem 0rem rgba(0, 0, 0, 0.04)), var(--shadows-extra-large, 0rem 0rem 0.1rem 0rem rgba(0, 0, 0, 0.04));
+  border-radius: 0.5rem;
+  border-top: 0rem solid var(--gray-shades-50, #B1B1B7);
+  background: var(--primary-shades-white, #FFFFFF);
+  position: absolute;
+  top: 28.3rem;
+  right: 18.9rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0.7rem 0.8rem 0.8rem 0.8rem;
+  width: 50.6rem;
+  box-sizing: border-box;
+}
+.ask-mine-x-ai-find-me-mines-in-perth {
+  margin: 0.8rem 0.8rem 0.8rem 0;
+  display: inline-block;
+  width: 40.1rem;
+  overflow-wrap: break-word;
+  font-family: var(--px-text-md-regular-font-family, 'Poppins');
+  font-weight: var(--px-text-md-regular-font-weight, 400);
+  font-size: var(--px-text-md-regular-font-size, 1rem);
+  line-height: var(--px-text-md-regular-line-height, 1.5);
+  color: var(--graygrey-3, #ABABB2);
+}
+.frame-14727255 {
+  border-radius: 0.3rem;
+  background: var(--3-c-3-c-4-c, #3C3C4C);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.8rem 0rem 0.8rem 0;
+  width: 8.3rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.search {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-md-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-md-medium-font-weight, 500);
+  font-size: var(--px-text-md-medium-font-size, 1rem);
+  line-height: var(--px-text-md-medium-line-height, 1.5);
+  color: var(--primaryprimary-1, #F9EFE7);
+}
+.frame-33806 {
+  position: absolute;
+  left: 10.9rem;
+  top: 18.7rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-bottom: 0.4rem;
+  box-sizing: border-box;
+}
+.frame-14727256 {
+  border-radius: 0.3rem;
+  background: #E2B70A;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 0.3rem;
+  box-sizing: border-box;
+}
+.frame-34577 {
+  margin-right: 0.1rem;
+  width: 1.4rem;
+  height: 1.3rem;
+}
+.gold-mine {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--faf-3-e-5, #FAF3E5);
+}
+.frame-33807 {
+  position: absolute;
+  left: 50%;
+  bottom: 0rem;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 0.9rem;
+  height: 0.5rem;
+  box-sizing: border-box;
+}
+.polygon-1 {
+  width: 0.9rem;
+  height: 0.5rem;
+}
+.frame-14727261 {
+  border-radius: 0.3rem;
+  background: #E2B70A;
+  position: absolute;
+  left: 11.6rem;
+  top: 19.6rem;
+  display: flex;
+  flex-direction: row;
+  padding: 0.3rem;
+  box-sizing: border-box;
+}
+.frame-34577262 {
+  margin-right: 0.1rem;
+  width: 1.4rem;
+  height: 1.3rem;
+}
+.gold-mine-267 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--faf-3-e-5, #FAF3E5);
+}
+.frame-33807268 {
+  position: absolute;
+  left: 14.4rem;
+  top: 21.2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 0.9rem;
+  height: 0.5rem;
+  box-sizing: border-box;
+}
+.polygon-1269 {
+  width: 0.9rem;
+  height: 0.5rem;
+}
+.frame-33806270 {
+  position: absolute;
+  left: 29rem;
+  top: 16.8rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-bottom: 0.4rem;
+  box-sizing: border-box;
+}
+.frame-14727271 {
+  border-radius: 0.3rem;
+  background: var(--red-1, #FF3B30);
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 0.3rem;
+  box-sizing: border-box;
+}
+.frame-34577272 {
+  margin-right: 0.1rem;
+  width: 1.4rem;
+  height: 1.3rem;
+}
+.gold-mine-277 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--faf-3-e-5, #FAF3E5);
+}
+.frame-33807278 {
+  position: absolute;
+  left: 50%;
+  bottom: 0rem;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 0.9rem;
+  height: 0.5rem;
+  box-sizing: border-box;
+}
+.polygon-1279 {
+  width: 0.9rem;
+  height: 0.5rem;
+}
+.frame-33806280 {
+  position: absolute;
+  left: 33.6rem;
+  top: 9.6rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-bottom: 0.4rem;
+  box-sizing: border-box;
+}
+.frame-14727281 {
+  border-radius: 0.3rem;
+  background: #E2B70A;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 0.3rem;
+  box-sizing: border-box;
+}
+.frame-34577282 {
+  margin-right: 0.1rem;
+  width: 1.4rem;
+  height: 1.3rem;
+}
+.gold-mine-287 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--faf-3-e-5, #FAF3E5);
+}
+.frame-33807288 {
+  position: absolute;
+  left: 50%;
+  bottom: 0rem;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 0.9rem;
+  height: 0.5rem;
+  box-sizing: border-box;
+}
+.polygon-1289 {
+  width: 0.9rem;
+  height: 0.5rem;
+}
+.frame-33806290 {
+  position: absolute;
+  left: 24.1rem;
+  top: 13.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-bottom: 0.4rem;
+  box-sizing: border-box;
+}
+.frame-14727291 {
+  border-radius: 0.3rem;
+  background: var(--red-1, #FF3B30);
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 0.3rem;
+  box-sizing: border-box;
+}
+.frame-34577292 {
+  margin-right: 0.1rem;
+  width: 1.4rem;
+  height: 1.3rem;
+}
+.gold-mine-297 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--faf-3-e-5, #FAF3E5);
+}
+.frame-33807298 {
+  position: absolute;
+  left: 50%;
+  bottom: 0rem;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 0.9rem;
+  height: 0.5rem;
+  box-sizing: border-box;
+}
+.polygon-1299 {
+  width: 0.9rem;
+  height: 0.5rem;
+}
+.frame-33806300 {
+  position: absolute;
+  left: 13.9rem;
+  top: 14.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-bottom: 0.4rem;
+  box-sizing: border-box;
+}
+.frame-14727301 {
+  border-radius: 0.3rem;
+  background: var(--red-1, #FF3B30);
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 0.3rem;
+  box-sizing: border-box;
+}
+.frame-34577302 {
+  margin-right: 0.1rem;
+  width: 1.4rem;
+  height: 1.3rem;
+}
+.gold-mine-307 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--faf-3-e-5, #FAF3E5);
+}
+.frame-33807308 {
+  position: absolute;
+  left: 50%;
+  bottom: 0rem;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 0.9rem;
+  height: 0.5rem;
+  box-sizing: border-box;
+}
+.polygon-1309 {
+  width: 0.9rem;
+  height: 0.5rem;
+}
+.frame-33806310 {
+  position: absolute;
+  left: 24.3rem;
+  top: 10rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-bottom: 0.4rem;
+  box-sizing: border-box;
+}
+.frame-14727311 {
+  border-radius: 0.3rem;
+  background: #E2B70A;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 0.3rem;
+  box-sizing: border-box;
+}
+.frame-34577312 {
+  margin-right: 0.1rem;
+  width: 1.4rem;
+  height: 1.3rem;
+}
+.gold-mine-317 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--faf-3-e-5, #FAF3E5);
+}
+.frame-33807318 {
+  position: absolute;
+  left: 50%;
+  bottom: 0rem;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 0.9rem;
+  height: 0.5rem;
+  box-sizing: border-box;
+}
+.polygon-1319 {
+  width: 0.9rem;
+  height: 0.5rem;
+}
+.frame-33806320 {
+  position: absolute;
+  left: 16.4rem;
+  top: 9.2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-bottom: 0.4rem;
+  box-sizing: border-box;
+}
+.frame-14727321 {
+  border-radius: 0.3rem;
+  background: var(--red-1, #FF3B30);
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 0.3rem;
+  box-sizing: border-box;
+}
+.frame-34577322 {
+  margin-right: 0.1rem;
+  width: 1.4rem;
+  height: 1.3rem;
+}
+.gold-mine-327 {
+  overflow-wrap: break-word;
+  font-family: var(--px-text-sm-medium-font-family, 'Poppins');
+  font-weight: var(--px-text-sm-medium-font-weight, 500);
+  font-size: var(--px-text-sm-medium-font-size, 0.9rem);
+  line-height: var(--px-text-sm-medium-line-height, 1.429);
+  color: var(--faf-3-e-5, #FAF3E5);
+}
+.frame-33807328 {
+  position: absolute;
+  left: 50%;
+  bottom: 0rem;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 0.9rem;
+  height: 0.5rem;
+  box-sizing: border-box;
+}
+.polygon-1329 {
+  width: 0.9rem;
+  height: 0.5rem;
+}
+.container {
+  margin: 0 0 11.8rem 0.6rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.container-330 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 28.2rem;
+  box-sizing: border-box;
+}
+.container-331 {
+  margin: 1.9rem 0 2rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.container-332 {
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-direction: row;
+  column-gap: 1.5rem;
+  width: 69.8rem;
+  box-sizing: border-box;
+}
+.container-333 {
+  position: relative;
+  margin-bottom: 1.8rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.container-334 {
+  margin-bottom: 7.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 69.8rem;
+  box-sizing: border-box;
+}
+.container-335 {
+  margin-bottom: 4.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 69.8rem;
+  box-sizing: border-box;
+}
+.container-336 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 1.5rem;
+  width: 69.8rem;
+  box-sizing: border-box;
+}
+.container-337 {
+  margin: 3.8rem 3.9rem 3.9rem 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.container-338 {
+  margin: 0 0 4.7rem 0.7rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.container-339 {
+  background: #22222B;
+  position: relative;
+  margin-bottom: 41.8rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1.1rem 0.4rem 7.9rem 0.6rem;
+  width: 91rem;
+  box-sizing: border-box;
+}
+.container-340 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
